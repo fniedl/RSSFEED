@@ -99,3 +99,22 @@ Changes not staged for commit:
 	modified:   rssfeed_automation.log
 
 no changes added to commit (use "git add" and/or "git commit -a")
+
+==== Neuer Durchlauf am 30.06.2025 16:58:21,82 ====
+[30.06.2025 16:58:21,82] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  16:57             6ÿ112 bev_eisstock_feed.xml
+30.06.2025  16:58             9ÿ211 esv_wang_feed.xml
+30.06.2025  16:58             1ÿ374 icestock_feed.xml
+30.06.2025  16:57            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ158 Bytes
+               0 Verzeichnis(se), 136ÿ553ÿ353ÿ216 Bytes frei
