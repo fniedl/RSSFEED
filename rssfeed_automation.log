@@ -1,0 +1,489 @@
+
+==== Neuer Durchlauf am 30.06.2025  8:40:27,52 ====
+[30.06.2025  8:40:27,52] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[30.06.2025  8:40:27,52] Checke auf offenen Rebase...
+warning: could not read '.git/rebase-merge/head-name': No such file or directory
+[30.06.2025  8:40:27,52] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at cafdba7 Test-Upload: Testdatei + Feeds
+[30.06.2025  8:40:27,52] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+You are currently rebasing.
+  (all conflicts fixed: run "git rebase --continue")
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025  8:40:27,52] Keine Ã„nderungen zum Commit.
+[30.06.2025  8:40:27,52] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+You are currently rebasing.
+  (all conflicts fixed: run "git rebase --continue")
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025  8:47:39,85 ====
+[30.06.2025  8:47:39,85] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[30.06.2025  8:47:39,85] Checke auf offenen Rebase...
+warning: could not read '.git/rebase-merge/head-name': No such file or directory
+[30.06.2025  8:47:39,85] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at cafdba7 Test-Upload: Testdatei + Feeds
+[30.06.2025  8:47:39,85] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+You are currently rebasing.
+  (all conflicts fixed: run "git rebase --continue")
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025  8:47:39,85] Keine Ã„nderungen zum Commit.
+[30.06.2025  8:47:39,85] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+You are currently rebasing.
+  (all conflicts fixed: run "git rebase --continue")
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025  8:53:03,40 ====
+[30.06.2025  8:53:03,40] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[30.06.2025  8:53:03,40] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025  8:53:03,40] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at cafdba7 Test-Upload: Testdatei + Feeds
+[30.06.2025  8:53:03,40] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025  8:53:03,40] Keine Ã„nderungen zum Commit.
+[30.06.2025  8:53:03,40] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025  9:04:11,92 ====
+[30.06.2025  9:04:11,92] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[30.06.2025  9:04:11,92] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025  9:04:11,92] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at cafdba7 Test-Upload: Testdatei + Feeds
+[30.06.2025  9:04:11,92] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025  9:04:11,92] Keine Ã„nderungen zum Commit.
+[30.06.2025  9:04:11,92] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025  9:12:25,18 ====
+[30.06.2025  9:12:25,18] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[30.06.2025  9:12:25,18] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025  9:12:25,18] Hole Remote und setze auf main...
+From https://github.com/fniedl/RSSFEED
+   cafdba7..88fd01e  main       -> origin/main
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	stocksport_austria_feed.xml
+D	testupload.txt
+Your branch is behind 'origin/main' by 5 commits, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Already on 'main'
+HEAD is now at 88fd01e Delete testupload.txt
+[30.06.2025  9:12:25,18] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+fatal: pathspec '*.xml' did not match any files
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025  9:12:25,18] Keine Ã„nderungen zum Commit.
+[30.06.2025  9:12:25,18] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025  9:21:23,31 ====
+[30.06.2025  9:21:23,31] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[30.06.2025  9:21:23,31] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025  9:21:23,31] Hole Remote und setze auf main...
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at 88fd01e Delete testupload.txt
+[30.06.2025  9:21:23,31] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+warning: in the working copy of 'esv_wang_feed.xml', LF will be replaced by CRLF the next time Git touches it
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   bev_eisstock_feed.xml
+	new file:   esv_wang_feed.xml
+	new file:   icestock_feed.xml
+	new file:   stocksport_austria_feed.xml
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+[30.06.2025  9:21:23,31] Committe Ã„nderungen...
+[main 47bfbb6] Automatisches Update der RSS-Feeds 30.06.2025  9:22:16,35
+ 4 files changed, 304 insertions(+)
+ create mode 100644 bev_eisstock_feed.xml
+ create mode 100644 esv_wang_feed.xml
+ create mode 100644 icestock_feed.xml
+ create mode 100644 stocksport_austria_feed.xml
+[30.06.2025  9:21:23,31] Push zum Remote...
+To https://github.com/fniedl/RSSFEED.git
+   88fd01e..47bfbb6  main -> main
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025  9:40:33,85 ====
+[30.06.2025  9:40:33,85] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  09:40             3ÿ921 bev_eisstock_feed.xml
+30.06.2025  07:52            15ÿ334 esv_wang_feed.xml
+30.06.2025  09:40               971 icestock_feed.xml
+30.06.2025  09:40            10ÿ790 stocksport_austria_feed.xml
+               4 Datei(en),         31ÿ016 Bytes
+               0 Verzeichnis(se), 137ÿ481ÿ592ÿ832 Bytes frei
+[30.06.2025  9:40:33,85] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025  9:40:33,85] Hole Remote und setze auf main...
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at 47bfbb6 Automatisches Update der RSS-Feeds 30.06.2025  9:22:16,35
+[30.06.2025  9:40:33,85] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025  9:40:33,85] Keine Ã„nderungen zum Commit.
+[30.06.2025  9:40:33,85] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025 11:59:29,20 ====
+[30.06.2025 11:59:29,20] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  11:59             3ÿ921 bev_eisstock_feed.xml
+30.06.2025  11:59            15ÿ334 esv_wang_feed.xml
+30.06.2025  11:59               971 icestock_feed.xml
+30.06.2025  11:58            10ÿ790 stocksport_austria_feed.xml
+               4 Datei(en),         31ÿ016 Bytes
+               0 Verzeichnis(se), 137ÿ323ÿ585ÿ536 Bytes frei
+[30.06.2025 11:59:29,20] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025 11:59:29,20] Hole Remote und setze auf main...
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at 47bfbb6 Automatisches Update der RSS-Feeds 30.06.2025  9:22:16,35
+[30.06.2025 11:59:29,20] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025 11:59:29,20] Keine Ã„nderungen zum Commit.
+[30.06.2025 11:59:29,20] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025 12:07:57,83 ====
+[30.06.2025 12:07:57,83] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  11:59             3ÿ921 bev_eisstock_feed.xml
+30.06.2025  11:59            15ÿ334 esv_wang_feed.xml
+30.06.2025  11:59               971 icestock_feed.xml
+30.06.2025  11:58            10ÿ790 stocksport_austria_feed.xml
+               4 Datei(en),         31ÿ016 Bytes
+               0 Verzeichnis(se), 137ÿ313ÿ402ÿ880 Bytes frei
+[30.06.2025 12:07:57,83] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025 12:07:57,83] Hole Remote und setze auf main...
+From https://github.com/fniedl/RSSFEED
+   47bfbb6..4cd935c  main       -> origin/main
+Your branch is behind 'origin/main' by 1 commit, and can be fast-forwarded.
+  (use "git pull" to update your local branch)
+Already on 'main'
+HEAD is now at 4cd935c Add files via upload
+[30.06.2025 12:07:57,83] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025 12:07:57,83] Keine Ã„nderungen zum Commit.
+[30.06.2025 12:07:57,83] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025 12:15:59,25 ====
+[30.06.2025 12:15:59,25] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  12:15             5ÿ091 bev_eisstock_feed.xml
+30.06.2025  12:15            15ÿ334 esv_wang_feed.xml
+30.06.2025  11:59               971 icestock_feed.xml
+30.06.2025  12:15            13ÿ800 stocksport_austria_feed.xml
+               4 Datei(en),         35ÿ196 Bytes
+               0 Verzeichnis(se), 137ÿ298ÿ313ÿ216 Bytes frei
+[30.06.2025 12:15:59,25] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025 12:15:59,25] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at 4cd935c Add files via upload
+[30.06.2025 12:15:59,25] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025 12:15:59,25] Keine Ã„nderungen zum Commit.
+[30.06.2025 12:15:59,25] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025 14:29:43,54 ====
+[30.06.2025 14:29:43,54] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  14:29             5ÿ128 bev_eisstock_feed.xml
+30.06.2025  14:29             9ÿ334 esv_wang_feed.xml
+30.06.2025  14:29             1ÿ210 icestock_feed.xml
+30.06.2025  12:15            13ÿ800 stocksport_austria_feed.xml
+               4 Datei(en),         29ÿ472 Bytes
+               0 Verzeichnis(se), 137ÿ010ÿ307ÿ072 Bytes frei
+[30.06.2025 14:29:43,54] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025 14:29:43,54] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+HEAD is now at 469bbad Add files via upload
+[30.06.2025 14:29:43,54] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+[30.06.2025 14:29:43,54] Keine Ã„nderungen zum Commit.
+[30.06.2025 14:29:43,54] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	rssfeed_automation.log
+
+nothing added to commit but untracked files present (use "git add" to track)
