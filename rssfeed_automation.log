@@ -46,3 +46,56 @@ Untracked files:
 	rssfeed_automation.log
 
 nothing added to commit but untracked files present (use "git add" to track)
+
+==== Neuer Durchlauf am 30.06.2025 15:24:10,21 ====
+[30.06.2025 15:24:10,21] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+30.06.2025  15:23             5ÿ128 bev_eisstock_feed.xml
+30.06.2025  15:24             9ÿ334 esv_wang_feed.xml
+30.06.2025  15:23             1ÿ210 icestock_feed.xml
+30.06.2025  15:23            13ÿ837 stocksport_austria_feed.xml
+               4 Datei(en),         29ÿ509 Bytes
+               0 Verzeichnis(se), 136ÿ904ÿ302ÿ592 Bytes frei
+[30.06.2025 15:24:10,21] Checke auf offenen Rebase...
+fatal: no rebase in progress
+[30.06.2025 15:24:10,21] Hole Remote und setze auf main...
+M	bev_eisstock_feed.xml
+M	esv_wang_feed.xml
+M	icestock_feed.xml
+M	rssfeed_automation.log
+M	stocksport_austria_feed.xml
+Your branch is up to date with 'origin/main'.
+Already on 'main'
+error: unable to unlink old 'rssfeed_automation.log': Invalid argument
+fatal: Could not reset index file to revision 'origin/main'.
+[30.06.2025 15:24:10,21] FÃ¼ge neue/geÃ¤nderte XML-Dateien hinzu...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[30.06.2025 15:24:10,21] Keine Ã„nderungen zum Commit.
+[30.06.2025 15:24:10,21] Push zum Remote...
+Everything up-to-date
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
