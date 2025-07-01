@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-07-01 01:02:36 -->
+<!-- Build: 2025-07-01 08:12:00 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>BEV Eisstock Newsfeed</title>
 <link>https://bev-eissport.de/eisstocksport/news-archiv/</link>
 <description>Automatisch generierte News BEV Eisstock</description>
+<item>
+<title>Ergebnisse Bayerische Meisterschaft Junioren U/23 sind online</title>
+<link>https://bev-eissport.de/eisstocksport/ergebnisse-bayerische-meisterschaft-junioren-u-23-sind-online/</link>
+<description><![CDATA[
+        <img src="https://bev-eissport.de/wp-content/uploads/Siegerfoto-Mannschaftsschiessen-U23-700x441.jpg" style="max-width:100%;"><br>
+        Ergebnisse Bayerische Meisterschaft Junioren U/23 sind online
+        <br>
+        <a href="https://bev-eissport.de/eisstocksport/ergebnisse-bayerische-meisterschaft-junioren-u-23-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+    ]]></description>
+<pubDate>Mon, 30 Jun 2025 21:45:58 +0000</pubDate>
+<media:content url="https://bev-eissport.de/wp-content/uploads/Siegerfoto-Mannschaftsschiessen-U23-700x441.jpg" medium="image" />
+</item>
 <item>
 <title>Aktuelle Startlisten BM Ziel Damen und Herren Stand 30.6.25 sind Online.</title>
 <link>https://bev-eissport.de/eisstocksport/aktuelle-startlisten-bm-ziel-damen-und-herren-stand-30-6-25-sind-online/</link>
@@ -64,18 +76,6 @@
         <a href="https://bev-eissport.de/eisstocksport/ergebnisse-bayerische-meisterschaft-jugend-u-16-mannschaftsspiel-sommer-2025-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
     ]]></description>
 <pubDate>Mon, 23 Jun 2025 21:30:23 +0000</pubDate>
-<media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
-</item>
-<item>
-<title>Ergebnis Bundesliga Damen 1.WBT und Spielerkader 2.Buli sind online.</title>
-<link>https://bev-eissport.de/eisstocksport/ergebnis-bundesliga-damen-1-wbt-und-spielerkader-2-buli-sind-online/</link>
-<description><![CDATA[
-        <img src="https://bev-eissport.de/wp-content/uploads/News.jpg" style="max-width:100%;"><br>
-        Ergebnis Bundesliga Damen 1.WBT und Spielerkader 2.Buli sind online.
-        <br>
-        <a href="https://bev-eissport.de/eisstocksport/ergebnis-bundesliga-damen-1-wbt-und-spielerkader-2-buli-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
-    ]]></description>
-<pubDate>Sun, 22 Jun 2025 17:26:50 +0000</pubDate>
 <media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
 </item>
 
