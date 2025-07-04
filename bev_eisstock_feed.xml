@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-07-03 10:33:28 -->
+<!-- Build: 2025-07-04 17:00:02 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>BEV Eisstock Newsfeed</title>
 <link>https://bev-eissport.de/eisstocksport/news-archiv/</link>
 <description>Automatisch generierte News BEV Eisstock</description>
+<item>
+<title>Startliste und Zeiteinteilung BM Ziel Damen und Herren Stand 02.07.2025 sind Online.</title>
+<link>https://bev-eissport.de/eisstocksport/startliste-und-zeiteinteilung-bm-ziel-damen-und-herren-stand-02-07-2025-sind-online/</link>
+<description><![CDATA[
+        <img src="https://bev-eissport.de/wp-content/uploads/News.jpg" style="max-width:100%;"><br>
+        Startliste und Zeiteinteilung BM Ziel Damen und Herren Stand 02.07.2025 sind Online.
+        <br>
+        <a href="https://bev-eissport.de/eisstocksport/startliste-und-zeiteinteilung-bm-ziel-damen-und-herren-stand-02-07-2025-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+    ]]></description>
+<pubDate>Thu, 03 Jul 2025 08:21:32 +0000</pubDate>
+<media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
+</item>
 <item>
 <title>Ergebnisse Bayerische Meisterschaft Junioren U/23 sind online</title>
 <link>https://bev-eissport.de/eisstocksport/ergebnisse-bayerische-meisterschaft-junioren-u-23-sind-online/</link>
@@ -64,18 +76,6 @@
         <a href="https://bev-eissport.de/eisstocksport/ergebnisse-1-spieltag-aller-oberligen-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
     ]]></description>
 <pubDate>Sat, 28 Jun 2025 16:16:48 +0000</pubDate>
-<media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
-</item>
-<item>
-<title>Ergebnisse Bayerische Meisterschaft Jugend U/16 Mannschaftsspiel Sommer 2025 sind online</title>
-<link>https://bev-eissport.de/eisstocksport/ergebnisse-bayerische-meisterschaft-jugend-u-16-mannschaftsspiel-sommer-2025-sind-online/</link>
-<description><![CDATA[
-        <img src="https://bev-eissport.de/wp-content/uploads/News.jpg" style="max-width:100%;"><br>
-        Ergebnisse Bayerische Meisterschaft Jugend U/16 Mannschaftsspiel Sommer 2025 sind online
-        <br>
-        <a href="https://bev-eissport.de/eisstocksport/ergebnisse-bayerische-meisterschaft-jugend-u-16-mannschaftsspiel-sommer-2025-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
-    ]]></description>
-<pubDate>Mon, 23 Jun 2025 21:30:23 +0000</pubDate>
 <media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
 </item>
 

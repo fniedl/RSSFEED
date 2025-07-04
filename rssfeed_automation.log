@@ -156,3 +156,560 @@ F:\NewsFeed\stocksport_austria_feed.xml
 01.07.2025  00:52            16ÿ461 stocksport_austria_feed.xml
                4 Datei(en),         33ÿ078 Bytes
                0 Verzeichnis(se), 136ÿ614ÿ694ÿ912 Bytes frei
+
+==== Neuer Durchlauf am 01.07.2025  1:03:03,30 ====
+[01.07.2025  1:03:03,30] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[01.07.2025  1:03:03,30] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  01:02             6ÿ032 bev_eisstock_feed.xml
+01.07.2025  01:03             9ÿ211 esv_wang_feed.xml
+01.07.2025  01:02             1ÿ374 icestock_feed.xml
+01.07.2025  01:02            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ078 Bytes
+               0 Verzeichnis(se), 144ÿ225ÿ513ÿ472 Bytes frei
+[01.07.2025  1:03:03,30] Git add *.xml ...
+[01.07.2025  1:03:03,30] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[01.07.2025  1:03:03,30] Committe Ã„nderungen...
+[main dc1f873] Auto Update RSS
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+[01.07.2025  1:03:03,30] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   ac0c02a..dc1f873  main -> main
+
+==== Neuer Durchlauf am 01.07.2025  8:04:21,80 ====
+[01.07.2025  8:04:21,80] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+
+==== Neuer Durchlauf am 01.07.2025  8:04:33,83 ====
+[01.07.2025  8:04:33,83] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[01.07.2025  8:04:21,80] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  01:02             6ÿ032 bev_eisstock_feed.xml
+01.07.2025  01:03             9ÿ211 esv_wang_feed.xml
+01.07.2025  01:02             1ÿ374 icestock_feed.xml
+01.07.2025  01:02            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ078 Bytes
+               0 Verzeichnis(se), 144ÿ502ÿ243ÿ328 Bytes frei
+[01.07.2025  8:04:21,80] Git add *.xml ...
+[01.07.2025  8:04:21,80] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[01.07.2025  8:04:21,80] Keine Ã„nderungen zum Commit, Skip Push.
+[01.07.2025  8:04:33,83] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  01:02             6ÿ032 bev_eisstock_feed.xml
+01.07.2025  01:03             9ÿ211 esv_wang_feed.xml
+01.07.2025  01:02             1ÿ374 icestock_feed.xml
+01.07.2025  01:02            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ078 Bytes
+               0 Verzeichnis(se), 144ÿ501ÿ264ÿ384 Bytes frei
+[01.07.2025  8:04:33,83] Git add *.xml ...
+[01.07.2025  8:04:33,83] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[01.07.2025  8:04:33,83] Keine Ã„nderungen zum Commit, Skip Push.
+
+==== Neuer Durchlauf am 01.07.2025  8:12:30,58 ====
+[01.07.2025  8:12:30,58] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[01.07.2025  8:12:30,58] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  08:12             6ÿ084 bev_eisstock_feed.xml
+01.07.2025  08:12             9ÿ211 esv_wang_feed.xml
+01.07.2025  08:12             1ÿ374 icestock_feed.xml
+01.07.2025  08:11            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 144ÿ492ÿ822ÿ528 Bytes frei
+[01.07.2025  8:12:30,58] Git add *.xml ...
+[01.07.2025  8:12:30,58] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[01.07.2025  8:12:30,58] Committe Ã„nderungen...
+[main 2805e22] Auto Update RSS
+ 4 files changed, 16 insertions(+), 16 deletions(-)
+[01.07.2025  8:12:30,58] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   dc1f873..2805e22  main -> main
+
+==== Neuer Durchlauf am 01.07.2025 12:00:02,76 ====
+[01.07.2025 12:00:02,76] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[01.07.2025 12:00:02,76] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  08:12             6ÿ084 bev_eisstock_feed.xml
+01.07.2025  08:12             9ÿ211 esv_wang_feed.xml
+01.07.2025  08:12             1ÿ374 icestock_feed.xml
+01.07.2025  08:11            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 144ÿ461ÿ099ÿ008 Bytes frei
+[01.07.2025 12:00:02,76] Git add *.xml ...
+[01.07.2025 12:00:02,76] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[01.07.2025 12:00:02,76] Keine Ã„nderungen zum Commit, Skip Push.
+
+==== Neuer Durchlauf am 01.07.2025 14:28:15,01 ====
+[01.07.2025 14:28:15,01] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[01.07.2025 14:28:15,01] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  14:27             6ÿ084 bev_eisstock_feed.xml
+01.07.2025  14:28             9ÿ211 esv_wang_feed.xml
+01.07.2025  14:28             1ÿ374 icestock_feed.xml
+01.07.2025  14:27            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 143ÿ309ÿ357ÿ056 Bytes frei
+[01.07.2025 14:28:15,01] Git add *.xml ...
+[01.07.2025 14:28:15,01] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[01.07.2025 14:28:15,01] Committe Ã„nderungen...
+[main 844be48] Auto Update RSS
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+[01.07.2025 14:28:15,01] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   2805e22..844be48  main -> main
+
+==== Neuer Durchlauf am 01.07.2025 18:22:01,78 ====
+[01.07.2025 18:22:01,78] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[01.07.2025 18:22:01,78] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+01.07.2025  18:21             6ÿ084 bev_eisstock_feed.xml
+01.07.2025  18:21             9ÿ211 esv_wang_feed.xml
+01.07.2025  18:21             1ÿ374 icestock_feed.xml
+01.07.2025  18:21            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 143ÿ260ÿ667ÿ904 Bytes frei
+[01.07.2025 18:22:01,78] Git add *.xml ...
+[01.07.2025 18:22:01,78] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[01.07.2025 18:22:01,78] Committe Ã„nderungen...
+[main cd0d4ad] Auto Update RSS
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+[01.07.2025 18:22:01,78] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   844be48..cd0d4ad  main -> main
+
+==== Neuer Durchlauf am 02.07.2025  0:44:36,92 ====
+[02.07.2025  0:44:36,92] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[02.07.2025  0:44:36,92] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+02.07.2025  00:44             6ÿ084 bev_eisstock_feed.xml
+02.07.2025  00:44             9ÿ211 esv_wang_feed.xml
+02.07.2025  00:44             1ÿ374 icestock_feed.xml
+02.07.2025  00:43            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 142ÿ406ÿ918ÿ144 Bytes frei
+[02.07.2025  0:44:36,92] Git add *.xml ...
+[02.07.2025  0:44:36,92] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[02.07.2025  0:44:36,92] Committe Ã„nderungen...
+[main 476f41e] Auto Update RSS
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+[02.07.2025  0:44:36,92] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   cd0d4ad..476f41e  main -> main
+
+==== Neuer Durchlauf am 02.07.2025  8:00:18,45 ====
+[02.07.2025  8:00:18,45] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[02.07.2025  8:00:18,45] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+02.07.2025  07:59             6ÿ084 bev_eisstock_feed.xml
+02.07.2025  08:00             9ÿ211 esv_wang_feed.xml
+02.07.2025  08:00               338 icestock_feed.xml
+02.07.2025  07:59            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         32ÿ094 Bytes
+               0 Verzeichnis(se), 142ÿ882ÿ410ÿ496 Bytes frei
+[02.07.2025  8:00:18,45] Git add *.xml ...
+[02.07.2025  8:00:18,45] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[02.07.2025  8:00:18,45] Committe Ã„nderungen...
+[main eed4349] Auto Update RSS
+ 4 files changed, 4 insertions(+), 16 deletions(-)
+[02.07.2025  8:00:18,45] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   476f41e..eed4349  main -> main
+
+==== Neuer Durchlauf am 02.07.2025 13:32:21,37 ====
+[02.07.2025 13:32:21,37] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[02.07.2025 13:32:21,37] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+02.07.2025  13:31             6ÿ084 bev_eisstock_feed.xml
+02.07.2025  13:32             9ÿ211 esv_wang_feed.xml
+02.07.2025  13:32             1ÿ374 icestock_feed.xml
+02.07.2025  13:31            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 142ÿ386ÿ552ÿ832 Bytes frei
+[02.07.2025 13:32:21,37] Git add *.xml ...
+[02.07.2025 13:32:21,37] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[02.07.2025 13:32:21,37] Committe Ã„nderungen...
+[main 2aa2345] Auto Update RSS
+ 4 files changed, 16 insertions(+), 4 deletions(-)
+[02.07.2025 13:32:21,37] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   eed4349..2aa2345  main -> main
+
+==== Neuer Durchlauf am 03.07.2025 10:34:00,13 ====
+[03.07.2025 10:34:00,13] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[03.07.2025 10:34:00,13] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+03.07.2025  10:33             6ÿ084 bev_eisstock_feed.xml
+03.07.2025  10:33             9ÿ211 esv_wang_feed.xml
+03.07.2025  10:33             1ÿ374 icestock_feed.xml
+03.07.2025  10:33            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 140ÿ474ÿ552ÿ320 Bytes frei
+[03.07.2025 10:34:00,13] Git add *.xml ...
+[03.07.2025 10:34:00,13] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[03.07.2025 10:34:00,13] Committe Ã„nderungen...
+[main 7be1a25] Auto Update RSS
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+[03.07.2025 10:34:00,13] Pushe zu GitHub...
+To https://github.com/fniedl/RSSFEED.git
+   2aa2345..7be1a25  main -> main
+
+==== Neuer Durchlauf am 04.07.2025 16:36:47,95 ====
+[04.07.2025 16:36:47,95] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[04.07.2025 16:36:47,95] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+03.07.2025  10:33             6ÿ084 bev_eisstock_feed.xml
+03.07.2025  10:33             9ÿ211 esv_wang_feed.xml
+03.07.2025  10:33             1ÿ374 icestock_feed.xml
+03.07.2025  10:33            16ÿ461 stocksport_austria_feed.xml
+               4 Datei(en),         33ÿ130 Bytes
+               0 Verzeichnis(se), 421ÿ726ÿ216ÿ192 Bytes frei
+[04.07.2025 16:36:47,95] Git add *.xml ...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+[04.07.2025 16:36:47,95] Git Status ...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+[04.07.2025 16:36:47,95] Committe Ã„nderungen...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+[04.07.2025 16:36:47,95] Pushe zu GitHub...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+==== Neuer Durchlauf am 04.07.2025 16:53:50,85 ====
+[04.07.2025 16:53:50,85] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[04.07.2025 16:53:50,85] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+04.07.2025  16:53             6ÿ066 bev_eisstock_feed.xml
+04.07.2025  16:53             9ÿ211 esv_wang_feed.xml
+04.07.2025  16:53             1ÿ374 icestock_feed.xml
+04.07.2025  16:53            16ÿ313 stocksport_austria_feed.xml
+               4 Datei(en),         32ÿ964 Bytes
+               0 Verzeichnis(se), 420ÿ817ÿ752ÿ064 Bytes frei
+[04.07.2025 16:53:50,85] Git add *.xml ...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+[04.07.2025 16:53:50,85] Git Status ...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+[04.07.2025 16:53:50,85] Committe Ã„nderungen...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+[04.07.2025 16:53:50,85] Pushe zu GitHub...
+Der Befehl "git" ist entweder falsch geschrieben oder
+konnte nicht gefunden werden.
+
+==== Neuer Durchlauf am 04.07.2025 17:00:28,26 ====
+[04.07.2025 17:00:28,26] Kopiere XML-Feeds...
+F:\NewsFeed\bev_eisstock_feed.xml
+F:\NewsFeed\esv_wang_feed.xml
+F:\NewsFeed\icestock_feed.xml
+F:\NewsFeed\stocksport_austria_feed.xml
+        4 Datei(en) kopiert.
+[04.07.2025 17:00:28,26] Dateien nach Kopieren:
+ Volume in Laufwerk C: hat keine Bezeichnung.
+ Volumeseriennummer: 92BE-3F23
+
+ Verzeichnis von C:\Users\fnied\OneDrive\Documents\GitHub\RSSFEED
+
+04.07.2025  17:00             6ÿ066 bev_eisstock_feed.xml
+04.07.2025  17:00             9ÿ211 esv_wang_feed.xml
+04.07.2025  17:00             1ÿ374 icestock_feed.xml
+04.07.2025  16:59            16ÿ313 stocksport_austria_feed.xml
+               4 Datei(en),         32ÿ964 Bytes
+               0 Verzeichnis(se), 420ÿ723ÿ585ÿ024 Bytes frei
+[04.07.2025 17:00:28,26] Git add *.xml ...
+[04.07.2025 17:00:28,26] Git Status ...
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	modified:   bev_eisstock_feed.xml
+	modified:   esv_wang_feed.xml
+	modified:   icestock_feed.xml
+	modified:   stocksport_austria_feed.xml
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   rssfeed_automation.log
+
+[04.07.2025 17:00:28,26] Committe Ã„nderungen...
+Author identity unknown
+
+*** Please tell me who you are.
+
+Run
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+to set your account's default identity.
+Omit --global to set the identity only in this repository.
+
+fatal: unable to auto-detect email address (got 'fnied@Wohnzimmer.(none)')
+[04.07.2025 17:00:28,26] Pushe zu GitHub...
+Everything up-to-date
