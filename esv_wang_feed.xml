@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-07-04 17:00:26 -->
+<!-- Build: 2025-07-05 22:29:19 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wang 3 schafft bei der Gebietsliga Meisterschaft den Klassenerhalt</title>
+<link>https://esv-wang.sportunion.at/news/2025/07/05/wang-3-schafft-bei-der-gebietsliga-meisterschaft-den-klassenerhalt/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250705_Gebiet-West_Wang-mit-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250705_Gebiet-West_Wang-mit-Sponsor.jpg-360x160.png" medium="image" />
+</item>
 <item>
 <title>Wang nach starker Leistung gegen Voitsberg im Final Four</title>
 <link>https://esv-wang.sportunion.at/news/2025/06/29/wang-nach-starker-leistung-gegen-voitsberg-im-final-four/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250517_gegen-Grossfeitritz-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250517_gegen-Grossfeitritz-Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Stockschützen erreichen in St. Oswald Platz 2</title>
-<link>https://esv-wang.sportunion.at/news/2025/05/17/wanger-stockschuetzen-erreichen-in-st-oswald-platz-2/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250516_St-Oswald-Wang-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250516_St-Oswald-Wang-Sponsor.jpg-360x160.png" medium="image" />
 </item>
 
 </channel>
