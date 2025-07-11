@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-07-11 08:08:26 -->
+<!-- Build: 2025-07-11 18:54:37 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wang gewinnt das Duo Turnier in St. Aegyd</title>
+<link>https://esv-wang.sportunion.at/news/2025/07/11/wang-gewinnt-das-duo-turnier-in-st-aegyd/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250710_St-Aegyd-Sieger-mit-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
+<pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250710_St-Aegyd-Sieger-mit-Sponsor.jpg-360x160.png" medium="image" />
+</item>
 <item>
 <title>Wang 3 schafft bei der Gebietsliga Meisterschaft den Klassenerhalt</title>
 <link>https://esv-wang.sportunion.at/news/2025/07/05/wang-3-schafft-bei-der-gebietsliga-meisterschaft-den-klassenerhalt/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250524_BL2-gegen-Neumarkt_Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250524_BL2-gegen-Neumarkt_Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang bucht mit dem Heimsieg gegen Großfeistritz das Viertelfinal Ticket</title>
-<link>https://esv-wang.sportunion.at/news/2025/05/18/esv-union-ladler-wang-bucht-mit-dem-heimsieg-gegen-grossfeistritz-das-viertelfinal-ticket/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250517_gegen-Grossfeitritz-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 18 May 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250517_gegen-Grossfeitritz-Wang-360x160.jpg" medium="image" />
 </item>
 
 </channel>
