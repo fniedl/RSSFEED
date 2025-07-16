@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-07-14 16:52:21 -->
+<!-- Build: 2025-07-16 11:35:45 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>ESV Union Ladler Wang zum zweiten mal Sommerstaatsmeister 2025</title>
+<link>https://esv-wang.sportunion.at/news/2025/07/14/esv-union-ladler-wang-zum-zweiten-mal-sommerstaatsmeister-2025/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/IMG_9831-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/IMG_9831-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wang gewinnt das Duo Turnier in St. Aegyd</title>
 <link>https://esv-wang.sportunion.at/news/2025/07/11/wang-gewinnt-das-duo-turnier-in-st-aegyd/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250529_Union-Mixed-BM_Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250529_Union-Mixed-BM_Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang 2 feiert nächste Sieg gegen Neumarkt</title>
-<link>https://esv-wang.sportunion.at/news/2025/05/25/esv-union-ladler-wang-2-feiert-naechste-sieg-gegen-neumarkt/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250524_BL2-gegen-Neumarkt_Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 25 May 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250524_BL2-gegen-Neumarkt_Wang-360x160.jpg" medium="image" />
 </item>
 
 </channel>
