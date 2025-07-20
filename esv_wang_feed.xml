@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-07-16 11:35:45 -->
+<!-- Build: 2025-07-20 21:49:37 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wang Stocksportler in Reinsberg zweimal auf dem Podest</title>
+<link>https://esv-wang.sportunion.at/news/2025/07/20/wang-stocksportler-in-reinsberg-zweimal-auf-dem-podest/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250719_Reinberg-Duosieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 20 Jul 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250719_Reinberg-Duosieger-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wang gewinnt in Wilhelmsburg klar und steigt in das Achtelfinale auf</title>
+<link>https://esv-wang.sportunion.at/news/2025/07/19/wang-gewinnt-in-wilhelmsburg-klar-und-steigt-in-das-achtelfinale-auf/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250718_NOE-Cup-beide-Teams-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250718_NOE-Cup-beide-Teams-Sponsor-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>ESV Union Ladler Wang zum zweiten mal Sommerstaatsmeister 2025</title>
 <link>https://esv-wang.sportunion.at/news/2025/07/14/esv-union-ladler-wang-zum-zweiten-mal-sommerstaatsmeister-2025/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250605_Wang_Team-mit-Wanger-GER-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250605_Wang_Team-mit-Wanger-GER-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang 1 siegt in Kirchberg und bleibt Tabellenführer</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/01/esv-union-ladler-wang-1-siegt-in-kirchberg-und-bleibt-tabellenfuehrer/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250531_SL-gegen-Kirchberg_Wang-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 01 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250531_SL-gegen-Kirchberg_Wang-mit-Fans-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang gewinnt nach spannenden Wettkampfverlauf den Vizebundesmeistertitel</title>
-<link>https://esv-wang.sportunion.at/news/2025/05/30/esv-union-ladler-wang-gewinnt-nach-spannenden-wettkampfverlauf-den-vizebundesmeistertitel/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250529_Union-Mixed-BM_Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250529_Union-Mixed-BM_Wang-360x160.jpg" medium="image" />
 </item>
 
 </channel>
