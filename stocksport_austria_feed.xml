@@ -1,11 +1,23 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-08-08 22:57:38 -->
+<!-- Build: 2025-08-14 09:43:58 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>Stocksport Austria Newsfeed</title>
 <link>https://www.stocksport-austria.at/kategorie/news/</link>
 <description>Automatisch generierte News Stocksport Austria</description>
+<item>
+<title>1. Europameisterschaft der Jugend U16</title>
+<link>https://www.stocksport-austria.at/news/1-europameisterschaft-der-jugend-u16/</link>
+<description><![CDATA[
+        <img src="https://www.stocksport-austria.at/wp-content/uploads/2025/08/54709278520_c267039fb1_c.jpg" style="max-width:100%;"><br>
+        1. Europameisterschaft der Jugend U16
+        <br>
+        <a href="https://www.stocksport-austria.at/news/1-europameisterschaft-der-jugend-u16/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+    ]]></description>
+<pubDate>Sat, 09 Aug 2025 08:09:00 +0000</pubDate>
+<media:content url="https://www.stocksport-austria.at/wp-content/uploads/2025/08/54709278520_c267039fb1_c.jpg" medium="image" />
+</item>
 <item>
 <title>Wang ist Österreichischer Meister 2025 – die Serie ist komplett!</title>
 <link>https://www.stocksport-austria.at/news/wang-ist-oesterreichischer-meister-2025-die-serie-ist-komplett/</link>
@@ -185,18 +197,6 @@
     ]]></description>
 <pubDate>Sat, 14 Jun 2025 18:14:53 +0000</pubDate>
 <media:content url="https://www.stocksport-austria.at/wp-content/uploads/2025/06/Weiz-Nord.jpeg" medium="image" />
-</item>
-<item>
-<title>Wer stürmt noch ins Viertelfinale?</title>
-<link>https://www.stocksport-austria.at/news/wer-stuermt-noch-ins-viertelfinale/</link>
-<description><![CDATA[
-        <img src="https://www.stocksport-austria.at/wp-content/uploads/2025/06/Titelbild-Viertelfinale.png" style="max-width:100%;"><br>
-        Wer stürmt noch ins Viertelfinale?
-        <br>
-        <a href="https://www.stocksport-austria.at/news/wer-stuermt-noch-ins-viertelfinale/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
-    ]]></description>
-<pubDate>Tue, 10 Jun 2025 07:51:15 +0000</pubDate>
-<media:content url="https://www.stocksport-austria.at/wp-content/uploads/2025/06/Titelbild-Viertelfinale.png" medium="image" />
 </item>
 
 </channel>

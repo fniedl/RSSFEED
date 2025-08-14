@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-08-08 22:58:17 -->
+<!-- Build: 2025-08-14 09:44:38 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>In Wang schafften die Favoriten den Aufstieg zum Finale und Playoff</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/10/in-wang-schafften-die-favoriten-den-aufstieg-zum-finale-und-playoff/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Wang-Region-Damen-Aufsteiger-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 10 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Wang-Region-Damen-Aufsteiger-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wolfgang Karl feierte mit seinen Vereinskollegen den 60iger</title>
 <link>https://esv-wang.sportunion.at/news/2025/07/27/wolfgang-karl-feierte-mit-seinen-vereinskollegen-den-60iger/</link>
@@ -96,20 +103,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250614_SL-gegen-Leitersdorf_Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250614_SL-gegen-Leitersdorf_Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Sieg und Niederlage für die Wanger Teams in der 2. Cup-Runde</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/11/sieg-und-niederlage-fuer-die-wanger-teams-in-der-2-cup-runde/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250610_Noe-Cup-gegen-Kematen-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250610_Noe-Cup-gegen-Kematen-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang 2 erspielt sich das Heimrecht für das Achtelfinale</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/08/esv-union-ladler-wang-2-erspielt-sich-das-heimrecht-fuer-das-achtelfinale/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250607_BL-2-gegen-Losenstein-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 08 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250607_BL-2-gegen-Losenstein-mit-Fans-360x160.jpg" medium="image" />
 </item>
 
 </channel>
