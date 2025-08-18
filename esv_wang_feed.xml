@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-08-14 09:44:38 -->
+<!-- Build: 2025-08-18 10:09:00 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Viele Stocksportler und Prominenz gaben dem ESV Union Ladler Wang die Ehre</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/17/viele-stocksportler-und-prominenz-gaben-dem-esv-union-ladler-wang-die-ehre/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/IMG_0170-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 17 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/IMG_0170-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang nach klaren Heimsieg im Viertelfinale</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/15/esv-union-ladler-wang-nach-klaren-heimsieg-im-viertelfinale/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/0-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/0-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>In Wang schafften die Favoriten den Aufstieg zum Finale und Playoff</title>
 <link>https://esv-wang.sportunion.at/news/2025/08/10/in-wang-schafften-die-favoriten-den-aufstieg-zum-finale-und-playoff/</link>
@@ -96,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250616_Young-Champions-Ehrung-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250616_Young-Champions-Ehrung-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang nach beeindruckenden Heimsieg Gruppensieger</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/15/esv-union-ladler-wang-nach-beeindruckenden-heimsieg-gruppensieger/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250614_SL-gegen-Leitersdorf_Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250614_SL-gegen-Leitersdorf_Wang-360x160.jpg" medium="image" />
 </item>
 
 </channel>
