@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-08-18 10:09:00 -->
+<!-- Build: 2025-08-26 10:04:33 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wanger Mixed Team holt den Vizelandesmeister-Titel</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/24/wanger-mixed-team-holt-den-vizelandesmeister-titel/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250824_1LL-Mixed-Wang-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 24 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250824_1LL-Mixed-Wang-mit-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang erreicht Platz 5 bei Senioren-Landesmeisterschaft.</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/23/esv-union-ladler-wang-erreicht-platz-5-bei-senioren-landesmeisterschaft/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250823_Senioren-LM-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 23 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250823_Senioren-LM-Wang-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Viele Stocksportler und Prominenz gaben dem ESV Union Ladler Wang die Ehre</title>
 <link>https://esv-wang.sportunion.at/news/2025/08/17/viele-stocksportler-und-prominenz-gaben-dem-esv-union-ladler-wang-die-ehre/</link>
@@ -82,34 +96,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250628_SL-VF-gegen-Voitsberg_Wang-Jubel-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250628_SL-VF-gegen-Voitsberg_Wang-Jubel-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wang scheitert im Achtelfinale in der Verlängerung</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/22/wang-scheitert-im-achtelfinale-in-der-verlaengerung/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250622_Bundesliga-2-gegen-Angerberg-beide-Teams-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 22 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250622_Bundesliga-2-gegen-Angerberg-beide-Teams-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Duo schafft Aufstieg zum Landesfinale</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/21/wanger-duo-schafft-aufstieg-zum-landesfinale/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260620_Duo-Cup-regio-Aufsteiger-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260620_Duo-Cup-regio-Aufsteiger-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Stocksportler gewinnen Allersdorfer Abendturnier</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/21/wanger-stocksportler-gewinnen-allersdorfer-abendturnier/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250620_Allersdorf-mit-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 21 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250620_Allersdorf-mit-Sponsor.jpg-360x160.png" medium="image" />
-</item>
-<item>
-<title>Nina Solböck auch bei der Young Champions Ehrung in Guntramsdorf.</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/18/nina-solboeck-auch-bei-der-young-champions-ehrung-in-guntramsdorf/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250616_Young-Champions-Ehrung-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Wed, 18 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250616_Young-Champions-Ehrung-360x160.jpg" medium="image" />
 </item>
 
 </channel>
