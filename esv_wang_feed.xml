@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-08-26 10:04:33 -->
+<!-- Build: 2025-09-06 07:54:48 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>ESV Union Ladler Wang in Vodnany auf Rang drei</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/30/esv-union-ladler-wang-in-vodnany-auf-rang-drei/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Vodnany-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Vodnany-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Nina Solböck gewinnt in Stattersdorf zweimal Bronze</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/30/nina-solboeck-gewinnt-in-stattersdorf-zweimal-bronze/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Ziel-LM-Jugend-U19_Nina-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Ziel-LM-Jugend-U19_Nina-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Duo gewinnt in Frontenhausen</title>
+<link>https://esv-wang.sportunion.at/news/2025/08/27/wanger-duo-gewinnt-in-frontenhausen/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250826_Frontenhausen-Sieger-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250826_Frontenhausen-Sieger-mit-Sponsor-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wanger Mixed Team holt den Vizelandesmeister-Titel</title>
 <link>https://esv-wang.sportunion.at/news/2025/08/24/wanger-mixed-team-holt-den-vizelandesmeister-titel/</link>
@@ -82,20 +103,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250710_St-Aegyd-Sieger-mit-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
 <pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250710_St-Aegyd-Sieger-mit-Sponsor.jpg-360x160.png" medium="image" />
-</item>
-<item>
-<title>Wang 3 schafft bei der Gebietsliga Meisterschaft den Klassenerhalt</title>
-<link>https://esv-wang.sportunion.at/news/2025/07/05/wang-3-schafft-bei-der-gebietsliga-meisterschaft-den-klassenerhalt/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250705_Gebiet-West_Wang-mit-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 05 Jul 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250705_Gebiet-West_Wang-mit-Sponsor.jpg-360x160.png" medium="image" />
-</item>
-<item>
-<title>Wang nach starker Leistung gegen Voitsberg im Final Four</title>
-<link>https://esv-wang.sportunion.at/news/2025/06/29/wang-nach-starker-leistung-gegen-voitsberg-im-final-four/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250628_SL-VF-gegen-Voitsberg_Wang-Jubel-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 29 Jun 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250628_SL-VF-gegen-Voitsberg_Wang-Jubel-360x160.jpg" medium="image" />
 </item>
 
 </channel>
