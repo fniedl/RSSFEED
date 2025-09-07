@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-09-06 07:54:48 -->
+<!-- Build: 2025-09-07 07:47:25 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>ESV Union Ladler Wang am Samstag zweimal auf dem Podest</title>
+<link>https://esv-wang.sportunion.at/news/2025/09/06/esv-union-ladler-wang-am-samstag-zweimal-auf-dem-podest/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250906_Marbach-Mixturnier-Wang-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250906_Marbach-Mixturnier-Wang-mit-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang in St. Marien (OÖ) auf Platz 1 und 2</title>
+<link>https://esv-wang.sportunion.at/news/2025/09/06/esv-union-ladler-wang-in-st-marien-ooe-auf-platz-1-und-2/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250905_St-Marien-Duo-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250905_St-Marien-Duo-Sieger-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>ESV Union Ladler Wang in Vodnany auf Rang drei</title>
 <link>https://esv-wang.sportunion.at/news/2025/08/30/esv-union-ladler-wang-in-vodnany-auf-rang-drei/</link>
@@ -96,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/IMG_9831-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Mon, 14 Jul 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/IMG_9831-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wang gewinnt das Duo Turnier in St. Aegyd</title>
-<link>https://esv-wang.sportunion.at/news/2025/07/11/wang-gewinnt-das-duo-turnier-in-st-aegyd/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250710_St-Aegyd-Sieger-mit-Sponsor.jpg-360x160.png" style="max-width:100%;"><br>]]></description>
-<pubDate>Fri, 11 Jul 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250710_St-Aegyd-Sieger-mit-Sponsor.jpg-360x160.png" medium="image" />
 </item>
 
 </channel>
