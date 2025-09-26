@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2025-09-17 15:44:40 -->
+<!-- Build: 2025-09-27 00:52:46 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Icestock (IFI) Newsfeed</title>
     <link>https://www.icestock.sport/webblocks/news/</link>
     <description>Automatisch generierte IFI News</description>
-    <lastBuildDate>Wed, 17 Sep 2025 13:44:40 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Sep 2025 22:52:46 +0000</lastBuildDate>
     <generator>FN-Stocksport Scraper</generator>
     <item>
+<title>Pressemitteilung Stocksport Champions League 2025</title>
+<link>https://www.icestock.sport/highlight/7916/</link>
+<description><![CDATA[
+<img src="https://www.icestock.sport/wp-content/uploads/2025/09/CL-2025-2.jpg" style="max-width:100%;height:auto;"><br>
+Mit der Champions League 2025 richtet Klagenfurt einen besonderen Höhepunkt im internationalen Eisstocksport aus. Athletinnen und Athleten aus zahlreichen Nationen treten an, um ihr Können auf höchstem Niveau unter Beweis zu stellen und den begehrten Titel zu erringen. Die Veranstaltung vereint sportliche Spitzenleistungen, Fairness und Teamgeist und bietet zugleich die Möglichkeit, die Vielfalt und Attraktivität des Eisstocksports einem breiten Publikum näherzubringen.
+<br>
+<a href="https://www.icestock.sport/highlight/7916/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Wed, 17 Sep 2025 20:32:07 +0000</pubDate>
+<media:content url="https://www.icestock.sport/wp-content/uploads/2025/09/CL-2025-2.jpg" medium="image" />
+</item>
+<item>
 <title>Champions League Damen und Herren 2025</title>
 <link>https://www.icestock.sport/highlight/champions-league-damen-und-herren-2025/</link>
 <description><![CDATA[
@@ -31,18 +43,6 @@ Zum Gedenken an Volker Bernardi
 ]]></description>
 <pubDate>Mon, 18 Aug 2025 20:04:30 +0000</pubDate>
 <media:content url="https://www.icestock.sport/wp-content/uploads/2025/02/ifi5-scaled-e1755547212134.jpg" medium="image" />
-</item>
-<item>
-<title>Vorbericht zur 1. Europameisterschaft der Jugend U16 in Kühbach vom 08. bis 10. August 2025</title>
-<link>https://www.icestock.sport/highlight/vorbericht-zur-1-europameisterschaft-der-jugend-u16-in-kuehbach-vom-08-bis-10-august-2025/</link>
-<description><![CDATA[
-<img src="https://www.icestock.sport/wp-content/uploads/2025/07/Kuehbach-Stocksporthalle.png" style="max-width:100%;height:auto;"><br>
-Ein historisches Ereignis wirft seine Schatten voraus: Vom 08. bis 10. August 2025 findet in Kühbach (Bayern) die 1. Europameisterschaft der Jugend U16 im Eisstocksport statt. Damit schreibt der internationale Eisstocksportverband Geschichte – zum ersten Mal messen sich Nachwuchstalente unter 16 Jahren auf europäischer Ebene in einem offiziellen Titelkampf.
-<br>
-<a href="https://www.icestock.sport/highlight/vorbericht-zur-1-europameisterschaft-der-jugend-u16-in-kuehbach-vom-08-bis-10-august-2025/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
-]]></description>
-<pubDate>Mon, 21 Jul 2025 16:11:09 +0000</pubDate>
-<media:content url="https://www.icestock.sport/wp-content/uploads/2025/07/Kuehbach-Stocksporthalle.png" medium="image" />
 </item>
 
   </channel>
