@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-09-27 00:52:56 -->
+<!-- Build: 2025-09-28 14:22:43 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Stockerlplatz für den ESV Union Ladler Wang in Hofamt Priel</title>
+<link>https://esv-wang.sportunion.at/news/2025/09/27/stockerlplatz-fuer-den-esv-union-ladler-wang-in-hofamt-priel/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250926_Hofamt-Priel-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250926_Hofamt-Priel-mit-Sponsor-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>ESV Union Ladler Wang steht nach Sieg gegen SG Umdasch Winklarn im Finale des AKNÖ – NÖ Cup</title>
 <link>https://esv-wang.sportunion.at/news/2025/09/24/esv-union-ladler-wang-steht-nach-sieg-gegen-sg-umdasch-winklarn-im-finale-des-aknoe-noe-cup/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Ziel-LM-Jugend-U19_Nina-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Ziel-LM-Jugend-U19_Nina-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Duo gewinnt in Frontenhausen</title>
-<link>https://esv-wang.sportunion.at/news/2025/08/27/wanger-duo-gewinnt-in-frontenhausen/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250826_Frontenhausen-Sieger-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250826_Frontenhausen-Sieger-mit-Sponsor-360x160.jpg" medium="image" />
 </item>
 
 </channel>
