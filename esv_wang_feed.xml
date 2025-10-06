@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-09-28 18:32:10 -->
+<!-- Build: 2025-10-06 11:03:42 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Stocksport SPORTUNION BM Jugend – Nina Solböck gewinnt 3 x Edelmedall</title>
+<link>https://esv-wang.sportunion.at/news/2025/10/05/stocksport-sportunion-bm-jugend-nina-solboeck-gewinnt-3-x-edelmedall/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251005_SU-BM-Jugend-Ziel-Team-beide-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251005_SU-BM-Jugend-Ziel-Team-beide-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang im Finale von Liebenfels geschlagen</title>
+<link>https://esv-wang.sportunion.at/news/2025/10/04/esv-union-ladler-wang-im-finale-von-liebenfels-geschlagen/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251004_SU-BM-Herren_Siegerfoto-Top-3-breit-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251004_SU-BM-Herren_Siegerfoto-Top-3-breit-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang schreibt wieder Stocksport Geschichte mit vierten Champions League Titel</title>
+<link>https://esv-wang.sportunion.at/news/2025/09/29/esv-union-ladler-wang-schreibt-wieder-stocksport-geschichte-mit-vierten-champions-league-titel/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250928_Champions-League-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250928_Champions-League-mit-Fans-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Stockerlplatz für den ESV Union Ladler Wang in Hofamt Priel</title>
 <link>https://esv-wang.sportunion.at/news/2025/09/27/stockerlplatz-fuer-den-esv-union-ladler-wang-in-hofamt-priel/</link>
@@ -89,27 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250906_Marbach-Mixturnier-Wang-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250906_Marbach-Mixturnier-Wang-mit-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang in St. Marien (OÖ) auf Platz 1 und 2</title>
-<link>https://esv-wang.sportunion.at/news/2025/09/06/esv-union-ladler-wang-in-st-marien-ooe-auf-platz-1-und-2/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250905_St-Marien-Duo-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250905_St-Marien-Duo-Sieger-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang in Vodnany auf Rang drei</title>
-<link>https://esv-wang.sportunion.at/news/2025/08/30/esv-union-ladler-wang-in-vodnany-auf-rang-drei/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Vodnany-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Vodnany-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Nina Solböck gewinnt in Stattersdorf zweimal Bronze</title>
-<link>https://esv-wang.sportunion.at/news/2025/08/30/nina-solboeck-gewinnt-in-stattersdorf-zweimal-bronze/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Ziel-LM-Jugend-U19_Nina-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 30 Aug 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250830_Ziel-LM-Jugend-U19_Nina-360x160.jpg" medium="image" />
 </item>
 
 </channel>
