@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-10-13 14:18:53 -->
+<!-- Build: 2025-10-16 15:29:00 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Erfolgreiche 5. Auflage des Internationalen VITAhome Solo Stocksport Cup 2025</title>
+<link>https://esv-wang.sportunion.at/news/2025/10/15/erfolgreiche-5-auflage-des-internationalen-vitahome-solo-stocksport-cup-2025/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/SoloCup-WANG-Sonntag-12.10.2025-408-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/SoloCup-WANG-Sonntag-12.10.2025-408-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Stocksport SPORTUNION BM Jugend – Nina Solböck gewinnt 3 x Edelmedall</title>
 <link>https://esv-wang.sportunion.at/news/2025/10/05/stocksport-sportunion-bm-jugend-nina-solboeck-gewinnt-3-x-edelmedall/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250907_Wang-Playoff-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 07 Sep 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250907_Wang-Playoff-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang am Samstag zweimal auf dem Podest</title>
-<link>https://esv-wang.sportunion.at/news/2025/09/06/esv-union-ladler-wang-am-samstag-zweimal-auf-dem-podest/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250906_Marbach-Mixturnier-Wang-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 06 Sep 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250906_Marbach-Mixturnier-Wang-mit-Sponsor-360x160.jpg" medium="image" />
 </item>
 
 </channel>
