@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-11-06 14:22:27 -->
+<!-- Build: 2025-11-09 21:54:14 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Erfolgreicher Start für den ESV Union Ladler Wang in neue Eisstocksport Saison</title>
+<link>https://esv-wang.sportunion.at/news/2025/11/08/erfolgreicher-start-fuer-den-esv-union-ladler-wang-in-neue-eisstocksport-saison/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Knapp 2.000.000 Zugriffe auf Stocksport Videos</title>
 <link>https://esv-wang.sportunion.at/news/2025/11/02/knapp-2-000-000-zugriffe-auf-stocksport-videos/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250924_Noe-Cup-gegen-SG-Umdasch-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250924_Noe-Cup-gegen-SG-Umdasch-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Nina Solböck mit Team NÖ erobert Bronzemedaille</title>
-<link>https://esv-wang.sportunion.at/news/2025/09/21/nina-solboeck-mit-team-noe-erobert-bronzemedaille/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250921_OEM-U23-weiblich_Top-3-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250921_OEM-U23-weiblich_Top-3-360x160.jpg" medium="image" />
 </item>
 
 </channel>
