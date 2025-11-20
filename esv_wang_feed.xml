@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-11-14 09:30:08 -->
+<!-- Build: 2025-11-20 06:50:01 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wanger gewinnen Eröffnungsturnier in Amstetten</title>
+<link>https://esv-wang.sportunion.at/news/2025/11/16/wanger-gewinnen-eroeffnungsturnier-in-amstetten/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251115_Wanger-Eisturnier-Sieger-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251115_Wanger-Eisturnier-Sieger-Wang-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang qualifiziert sich für Bundesmeisterschaft</title>
+<link>https://esv-wang.sportunion.at/news/2025/11/16/esv-union-ladler-wang-qualifiziert-sich-fuer-bundesmeisterschaft/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251115_SU-LM-Top-4-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251115_SU-LM-Top-4-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Erfolgreicher Start für den ESV Union Ladler Wang in neue Eisstocksport Saison</title>
 <link>https://esv-wang.sportunion.at/news/2025/11/08/erfolgreicher-start-fuer-den-esv-union-ladler-wang-in-neue-eisstocksport-saison/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250928_Champions-League-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250928_Champions-League-mit-Fans-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Stockerlplatz für den ESV Union Ladler Wang in Hofamt Priel</title>
-<link>https://esv-wang.sportunion.at/news/2025/09/27/stockerlplatz-fuer-den-esv-union-ladler-wang-in-hofamt-priel/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250926_Hofamt-Priel-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 27 Sep 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250926_Hofamt-Priel-mit-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang steht nach Sieg gegen SG Umdasch Winklarn im Finale des AKNÖ – NÖ Cup</title>
-<link>https://esv-wang.sportunion.at/news/2025/09/24/esv-union-ladler-wang-steht-nach-sieg-gegen-sg-umdasch-winklarn-im-finale-des-aknoe-noe-cup/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250924_Noe-Cup-gegen-SG-Umdasch-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Wed, 24 Sep 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250924_Noe-Cup-gegen-SG-Umdasch-360x160.jpg" medium="image" />
 </item>
 
 </channel>
