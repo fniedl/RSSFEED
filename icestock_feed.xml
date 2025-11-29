@@ -1,14 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2025-11-24 07:19:20 -->
+<!-- Build: 2025-11-30 00:30:07 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Icestock (IFI) Newsfeed</title>
     <link>https://www.icestock.sport/webblocks/news/</link>
     <description>Automatisch generierte IFI News</description>
-    <lastBuildDate>Mon, 24 Nov 2025 06:19:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 29 Nov 2025 23:30:07 +0000</lastBuildDate>
     <generator>FN-Stocksport Scraper</generator>
     <item>
+<title>Doppelter Schauplatz – ein Europa-Cup voller Highlights</title>
+<link>https://www.icestock.sport/news/doppelter-schauplatz-ein-europa-cup-voller-highlights/</link>
+<description><![CDATA[
+<img src="https://www.icestock.sport/wp-content/uploads/2025/11/Sieger-EC-Damen-und-Herren-2025.heic" style="max-width:100%;height:auto;"><br>
+Doppelter Schauplatz – ein Europa-Cup voller Highlights
+<br>
+<a href="https://www.icestock.sport/news/doppelter-schauplatz-ein-europa-cup-voller-highlights/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Fri, 28 Nov 2025 11:41:12 +0000</pubDate>
+<media:content url="https://www.icestock.sport/wp-content/uploads/2025/11/Sieger-EC-Damen-und-Herren-2025.heic" medium="image" />
+</item>
+<item>
 <title>Frischer Schwung für unsere Jüngsten</title>
 <link>https://www.icestock.sport/highlight/frischer-schwung-fuer-unsere-juengsten/</link>
 <description><![CDATA[

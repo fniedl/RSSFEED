@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-11-24 07:19:32 -->
+<!-- Build: 2025-11-30 00:30:19 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Europacup-ESV Union Ladler Wang unterliegt im Finale gegen Windorf (GER)</title>
+<link>https://esv-wang.sportunion.at/news/2025/11/26/europacup-esv-union-ladler-wang-unterliegt-im-finale-gegen-windorf-ger/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251123_Europacup_Wang-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251123_Europacup_Wang-mit-Fans-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wanger gewinnen Eröffnungsturnier in Amstetten</title>
 <link>https://esv-wang.sportunion.at/news/2025/11/16/wanger-gewinnen-eroeffnungsturnier-in-amstetten/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251004_SU-BM-Herren_Siegerfoto-Top-3-breit-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251004_SU-BM-Herren_Siegerfoto-Top-3-breit-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang schreibt wieder Stocksport Geschichte mit vierten Champions League Titel</title>
-<link>https://esv-wang.sportunion.at/news/2025/09/29/esv-union-ladler-wang-schreibt-wieder-stocksport-geschichte-mit-vierten-champions-league-titel/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20250928_Champions-League-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20250928_Champions-League-mit-Fans-360x160.jpg" medium="image" />
 </item>
 
 </channel>
