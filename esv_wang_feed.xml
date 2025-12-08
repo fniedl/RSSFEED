@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-11-30 00:30:19 -->
+<!-- Build: 2025-12-08 13:03:07 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>1. Runde des Bezirkscup bringt Mittelfeldplätze</title>
+<link>https://esv-wang.sportunion.at/news/2025/12/07/1-runde-des-bezirkscup-bringt-mittelfeldplaetze/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorentafel-60x30cm_2025-1-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorentafel-60x30cm_2025-1-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Europacup-ESV Union Ladler Wang unterliegt im Finale gegen Windorf (GER)</title>
 <link>https://esv-wang.sportunion.at/news/2025/11/26/europacup-esv-union-ladler-wang-unterliegt-im-finale-gegen-windorf-ger/</link>
@@ -96,20 +103,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/SoloCup-WANG-Sonntag-12.10.2025-408-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Wed, 15 Oct 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/SoloCup-WANG-Sonntag-12.10.2025-408-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Stocksport SPORTUNION BM Jugend – Nina Solböck gewinnt 3 x Edelmedall</title>
-<link>https://esv-wang.sportunion.at/news/2025/10/05/stocksport-sportunion-bm-jugend-nina-solboeck-gewinnt-3-x-edelmedall/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251005_SU-BM-Jugend-Ziel-Team-beide-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 05 Oct 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251005_SU-BM-Jugend-Ziel-Team-beide-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang im Finale von Liebenfels geschlagen</title>
-<link>https://esv-wang.sportunion.at/news/2025/10/04/esv-union-ladler-wang-im-finale-von-liebenfels-geschlagen/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251004_SU-BM-Herren_Siegerfoto-Top-3-breit-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 04 Oct 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251004_SU-BM-Herren_Siegerfoto-Top-3-breit-360x160.jpg" medium="image" />
 </item>
 
 </channel>
