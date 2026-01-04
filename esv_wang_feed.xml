@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2025-12-26 10:31:09 -->
+<!-- Build: 2026-01-04 13:06:00 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Sportjahresrückblick 2025</title>
+<link>https://esv-wang.sportunion.at/news/2025/12/28/sportjahresrueckblick-2025/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Vereinsfoto-2025-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Vereinsfoto-2025-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Der ESV Union Ladler Wang wünscht Euch alle Frohe Weihnachten und einige erholsame Tage</title>
 <link>https://esv-wang.sportunion.at/news/2025/12/21/der-esv-union-ladler-wang-wuenscht-euch-alle-frohe-weihnachten-und-einige-erholsame-tage/</link>
@@ -47,27 +54,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Knapp 2.000.000 Zugriffe auf Stocksport Videos</title>
-<link>https://esv-wang.sportunion.at/news/2025/11/02/knapp-2-000-000-zugriffe-auf-stocksport-videos/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Logo_SOLO_Cup-ohne-Jahreszahl-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Logo_SOLO_Cup-ohne-Jahreszahl-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Ehrungen für Wanger Stocksportler bei der JHV des NÖEV</title>
-<link>https://esv-wang.sportunion.at/news/2025/10/26/ehrungen-fuer-wanger-stocksportler-bei-der-jhv-des-noeev/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251026_NOEEV-JHV_Ehrung-Mannschaft-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251026_NOEEV-JHV_Ehrung-Mannschaft-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>FF Wang gewinnt 23. Wanger Ortsmeisterschaft</title>
-<link>https://esv-wang.sportunion.at/news/2025/10/26/ff-wang-gewinnt-23-wanger-ortsmeisterschaft/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251025_OM_Top-3-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 26 Oct 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251025_OM_Top-3-360x160.jpg" medium="image" />
 </item>
 
 </channel>
