@@ -1,11 +1,39 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-01-04 13:06:00 -->
+<!-- Build: 2026-01-11 15:37:29 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Patrick Solböck holt Landesmeistertitel in Amstetten</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/11/patrick-solboeck-holt-landesmeistertitel-in-amstetten/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260111_Ziel-LM-Patrick-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260111_Ziel-LM-Patrick-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Senioren holen Landesmeistertitel und lösen Ticket zur ÖM</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/10/wanger-senioren-holen-landesmeistertitel-und-loesen-ticket-zur-oem/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260110_Senioren-LM-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260110_Senioren-LM-Wang-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang startet mit Stockerlplatz bei Mixed LM in das neue Jahr</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/09/esv-union-ladler-wang-startet-mit-stockerlplatz-bei-mixed-lm-in-das-neue-jahr/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260106_1-LL-Mix-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260106_1-LL-Mix-Wang-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Anton Putz gewinnt das erste vereinsinterne Preisschnapsen der Wanger Stockschützen.</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/05/anton-putz-gewinnt-das-erste-vereinsinterne-preisschnapsen-der-wanger-stockschuetzen/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260104_Preisschnapsen_alle-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Mon, 05 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260104_Preisschnapsen_alle-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Sportjahresrückblick 2025</title>
 <link>https://esv-wang.sportunion.at/news/2025/12/28/sportjahresrueckblick-2025/</link>
@@ -47,13 +75,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251115_SU-LM-Top-4-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251115_SU-LM-Top-4-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Erfolgreicher Start für den ESV Union Ladler Wang in neue Eisstocksport Saison</title>
-<link>https://esv-wang.sportunion.at/news/2025/11/08/erfolgreicher-start-fuer-den-esv-union-ladler-wang-in-neue-eisstocksport-saison/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 08 Nov 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" medium="image" />
 </item>
 
 </channel>
