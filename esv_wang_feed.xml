@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-01-11 15:37:29 -->
+<!-- Build: 2026-01-20 22:57:26 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Bowlingnachmittag des ESV Union Ladler Wang</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/18/bowlingnachmittag-des-esv-union-ladler-wang/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Bowling-1-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Bowling-1-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>🧊 Vorbereitungsturnier und Unterliga West: Licht und Schatten für den ESV Union Ladler Wang</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/17/%f0%9f%a7%8a-vorbereitungsturnier-und-unterliga-west-licht-und-schatten-fuer-den-esv-union-ladler-wang/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Wanger-Eistunier-Top-4-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Wanger-Eistunier-Top-4-Sponsor-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Patrick Solböck holt Landesmeistertitel in Amstetten</title>
 <link>https://esv-wang.sportunion.at/news/2026/01/11/patrick-solboeck-holt-landesmeistertitel-in-amstetten/</link>
@@ -61,20 +75,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251123_Europacup_Wang-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251123_Europacup_Wang-mit-Fans-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger gewinnen Eröffnungsturnier in Amstetten</title>
-<link>https://esv-wang.sportunion.at/news/2025/11/16/wanger-gewinnen-eroeffnungsturnier-in-amstetten/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251115_Wanger-Eisturnier-Sieger-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251115_Wanger-Eisturnier-Sieger-Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang qualifiziert sich für Bundesmeisterschaft</title>
-<link>https://esv-wang.sportunion.at/news/2025/11/16/esv-union-ladler-wang-qualifiziert-sich-fuer-bundesmeisterschaft/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251115_SU-LM-Top-4-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251115_SU-LM-Top-4-360x160.jpg" medium="image" />
 </item>
 
 </channel>
