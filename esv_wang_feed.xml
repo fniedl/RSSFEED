@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-01-24 21:21:10 -->
+<!-- Build: 2026-01-31 09:42:24 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Patrick Solböck sichert sich gemeinsam mit dem Niederösterreichischen Zielteam die Bronzemedaille.</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/26/patrick-solboeck-sichert-sich-gemeinsam-mit-dem-niederoesterreichischen-zielteam-die-bronzemedaille/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260125_Ziel-Team_-Platz-3-360x160.jpeg" style="max-width:100%;"><br>]]></description>
+<pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260125_Ziel-Team_-Platz-3-360x160.jpeg" medium="image" />
+</item>
+<item>
+<title>Birnstingl-Schießen in Wang</title>
+<link>https://esv-wang.sportunion.at/news/2026/01/26/birnstingl-schiessen-in-wang/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260124_Birnstinglschiessen-alle-e1769413253705-360x160.jpeg" style="max-width:100%;"><br>]]></description>
+<pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260124_Birnstinglschiessen-alle-e1769413253705-360x160.jpeg" medium="image" />
+</item>
 <item>
 <title>Bowlingnachmittag des ESV Union Ladler Wang</title>
 <link>https://esv-wang.sportunion.at/news/2026/01/18/bowlingnachmittag-des-esv-union-ladler-wang/</link>
@@ -68,13 +82,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorentafel-60x30cm_2025-1-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorentafel-60x30cm_2025-1-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Europacup-ESV Union Ladler Wang unterliegt im Finale gegen Windorf (GER)</title>
-<link>https://esv-wang.sportunion.at/news/2025/11/26/europacup-esv-union-ladler-wang-unterliegt-im-finale-gegen-windorf-ger/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251123_Europacup_Wang-mit-Fans-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Wed, 26 Nov 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251123_Europacup_Wang-mit-Fans-360x160.jpg" medium="image" />
 </item>
 
 </channel>
