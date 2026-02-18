@@ -1,11 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-01-31 09:42:24 -->
+<!-- Build: 2026-02-18 21:16:33 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wanger Herren verpassen Medaille hauchdünn – Europacup‑Ticket dennoch fixiert</title>
+<link>https://esv-wang.sportunion.at/news/2026/02/15/wanger-herren-verpassen-medaille-hauchduenn-europacup-ticket-dennoch-fixiert/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260215_Staatsliga-Wang-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260215_Staatsliga-Wang-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Doppelsieg beim letzten Formtest für die Staatsmeisterschaft</title>
+<link>https://esv-wang.sportunion.at/news/2026/02/11/wanger-doppelsieg-beim-letzten-formtest-fuer-die-staatsmeisterschaft/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Eisstocksport Bundesliga 2 – Wang enttäuscht mit Platz 12</title>
+<link>https://esv-wang.sportunion.at/news/2026/02/08/eisstocksport-bundesliga-2-wang-enttaeuscht-mit-platz-12/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260207_Bundesliga-2_alle-NOE-Teilnehmer-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260207_Bundesliga-2_alle-NOE-Teilnehmer-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Patrick Solböck sichert sich gemeinsam mit dem Niederösterreichischen Zielteam die Bronzemedaille.</title>
 <link>https://esv-wang.sportunion.at/news/2026/01/26/patrick-solboeck-sichert-sich-gemeinsam-mit-dem-niederoesterreichischen-zielteam-die-bronzemedaille/</link>
@@ -75,13 +96,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/weihnachtskarte-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/weihnachtskarte-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>1. Runde des Bezirkscup bringt Mittelfeldplätze</title>
-<link>https://esv-wang.sportunion.at/news/2025/12/07/1-runde-des-bezirkscup-bringt-mittelfeldplaetze/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorentafel-60x30cm_2025-1-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 07 Dec 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorentafel-60x30cm_2025-1-360x160.jpg" medium="image" />
 </item>
 
 </channel>
