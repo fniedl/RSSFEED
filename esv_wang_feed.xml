@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-02-18 21:16:33 -->
+<!-- Build: 2026-02-22 09:26:21 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>ESV Union Ladler Wang auf Rang 12</title>
+<link>https://esv-wang.sportunion.at/news/2026/02/21/esv-union-ladler-wang-auf-rang-12/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260221_OEM-Senioren_Wang-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260221_OEM-Senioren_Wang-mit-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Stockschützen beim Bezirkscup-Finale im Einsatz</title>
+<link>https://esv-wang.sportunion.at/news/2026/02/21/wanger-stockschuetzen-beim-bezirkscup-finale-im-einsatz/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260220_Bezirkcup-Finale_Wang-mit-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 21 Feb 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260220_Bezirkcup-Finale_Wang-mit-Sponsor-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wanger Herren verpassen Medaille hauchdünn – Europacup‑Ticket dennoch fixiert</title>
 <link>https://esv-wang.sportunion.at/news/2026/02/15/wanger-herren-verpassen-medaille-hauchduenn-europacup-ticket-dennoch-fixiert/</link>
@@ -89,13 +103,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Vereinsfoto-2025-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 28 Dec 2025 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Vereinsfoto-2025-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Der ESV Union Ladler Wang wünscht Euch alle Frohe Weihnachten und einige erholsame Tage</title>
-<link>https://esv-wang.sportunion.at/news/2025/12/21/der-esv-union-ladler-wang-wuenscht-euch-alle-frohe-weihnachten-und-einige-erholsame-tage/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/weihnachtskarte-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 21 Dec 2025 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/weihnachtskarte-360x160.jpg" medium="image" />
 </item>
 
 </channel>
