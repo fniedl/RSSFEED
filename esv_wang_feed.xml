@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-03-08 12:20:15 -->
+<!-- Build: 2026-03-09 07:51:30 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wanger Damen feiern gelungenes Comeback beim Damenturnier</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/08/wanger-damen-feiern-gelungenes-comeback-beim-damenturnier/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260307_Hofamt-Priel-Sieger-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260307_Hofamt-Priel-Sieger-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Haselsteiner Erich feiert mit dem ESV Union Ladler Wang seinen 60ziger</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/08/haselsteiner-erich-feiert-mit-dem-esv-union-ladler-wang-seinen-60ziger/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260307_50-ziger-Haselsteiner-Erich_3-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260307_50-ziger-Haselsteiner-Erich_3-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Der ESV Union Ladler Wang trauert um Ehrenmitglied Hubert Karl</title>
 <link>https://esv-wang.sportunion.at/news/2026/02/27/der-esv-union-ladler-wang-trauert-um-ehrenmitglied-hubert-karl/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260111_Ziel-LM-Patrick-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260111_Ziel-LM-Patrick-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Senioren holen Landesmeistertitel und lösen Ticket zur ÖM</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/10/wanger-senioren-holen-landesmeistertitel-und-loesen-ticket-zur-oem/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260110_Senioren-LM-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 10 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260110_Senioren-LM-Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang startet mit Stockerlplatz bei Mixed LM in das neue Jahr</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/09/esv-union-ladler-wang-startet-mit-stockerlplatz-bei-mixed-lm-in-das-neue-jahr/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260106_1-LL-Mix-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Fri, 09 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260106_1-LL-Mix-Wang-360x160.jpg" medium="image" />
 </item>
 
 </channel>
