@@ -1,11 +1,60 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!-- Build: 2026-03-09 07:51:30 -->
+<!-- Build: 2026-04-02 11:06:20 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>ESV Union Ladler Wang gewinnt Mixed Landesmeisterschaft der SPORTUNION NÖ.</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/29/esv-union-ladler-wang-gewinnt-mixed-landesmeisterschaft-der-sportunion-noe/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260329_Union-LM-Mixed_Top-3-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260329_Union-LM-Mixed_Top-3-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Bundesliga 2 – Fehlstart für den ESV Union Ladler Wang 2 in Kärnten</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/29/bundesliga-2-fehlstart-fuer-den-esv-union-ladler-wang-2-in-kaernten/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260328_BL-2_Wang-querr-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260328_BL-2_Wang-querr-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Duo landet auf Platz 3</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/26/wanger-duo-landet-auf-platz-3/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260325_Duo-Frankenfels-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260325_Duo-Frankenfels-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>ESV Union Ladler Wang gewinnt ungeschlagen das Turnier</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/21/esv-union-ladler-wang-gewinnt-ungeschlagen-das-turnier/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260321_Schardenberg-Sieger-Wang-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260321_Schardenberg-Sieger-Wang-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Stockschützen Platzieren sich im vorderen Mittelfeld</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/21/wanger-stockschuetzen-platzieren-sich-im-vorderen-mittelfeld/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260321_Suedstadttrophy-Wang-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260321_Suedstadttrophy-Wang-Sponsor-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Wanger Stocksportler gewinnen überlegen die Landesmeisterschaft</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/14/wanger-stocksportler-gewinnen-ueberlegen-die-landesmeisterschaft/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260314_Union-LM-Wang-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260314_Union-LM-Wang-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Sieben Duo-Mannschaften beim Wanger Trainingsturnier</title>
+<link>https://esv-wang.sportunion.at/news/2026/03/13/sieben-duo-mannschaften-beim-wanger-trainingsturnier/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260312_Trainings-Duo-Turnier-360x160.jpg" style="max-width:100%;"><br>]]></description>
+<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260312_Trainings-Duo-Turnier-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wanger Damen feiern gelungenes Comeback beim Damenturnier</title>
 <link>https://esv-wang.sportunion.at/news/2026/03/08/wanger-damen-feiern-gelungenes-comeback-beim-damenturnier/</link>
@@ -61,55 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260215_Staatsliga-Wang-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
 <pubDate>Sun, 15 Feb 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260215_Staatsliga-Wang-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Doppelsieg beim letzten Formtest für die Staatsmeisterschaft</title>
-<link>https://esv-wang.sportunion.at/news/2026/02/11/wanger-doppelsieg-beim-letzten-formtest-fuer-die-staatsmeisterschaft/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Wed, 11 Feb 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20251108_Ladler-Cup-Sieger-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Eisstocksport Bundesliga 2 – Wang enttäuscht mit Platz 12</title>
-<link>https://esv-wang.sportunion.at/news/2026/02/08/eisstocksport-bundesliga-2-wang-enttaeuscht-mit-platz-12/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260207_Bundesliga-2_alle-NOE-Teilnehmer-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 08 Feb 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260207_Bundesliga-2_alle-NOE-Teilnehmer-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Patrick Solböck sichert sich gemeinsam mit dem Niederösterreichischen Zielteam die Bronzemedaille.</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/26/patrick-solboeck-sichert-sich-gemeinsam-mit-dem-niederoesterreichischen-zielteam-die-bronzemedaille/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260125_Ziel-Team_-Platz-3-360x160.jpeg" style="max-width:100%;"><br>]]></description>
-<pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260125_Ziel-Team_-Platz-3-360x160.jpeg" medium="image" />
-</item>
-<item>
-<title>Birnstingl-Schießen in Wang</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/26/birnstingl-schiessen-in-wang/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260124_Birnstinglschiessen-alle-e1769413253705-360x160.jpeg" style="max-width:100%;"><br>]]></description>
-<pubDate>Mon, 26 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260124_Birnstinglschiessen-alle-e1769413253705-360x160.jpeg" medium="image" />
-</item>
-<item>
-<title>Bowlingnachmittag des ESV Union Ladler Wang</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/18/bowlingnachmittag-des-esv-union-ladler-wang/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Bowling-1-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 18 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Bowling-1-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>🧊 Vorbereitungsturnier und Unterliga West: Licht und Schatten für den ESV Union Ladler Wang</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/17/%f0%9f%a7%8a-vorbereitungsturnier-und-unterliga-west-licht-und-schatten-fuer-den-esv-union-ladler-wang/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Wanger-Eistunier-Top-4-Sponsor-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sat, 17 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260117_Wanger-Eistunier-Top-4-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Patrick Solböck holt Landesmeistertitel in Amstetten</title>
-<link>https://esv-wang.sportunion.at/news/2026/01/11/patrick-solboeck-holt-landesmeistertitel-in-amstetten/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260111_Ziel-LM-Patrick-360x160.jpg" style="max-width:100%;"><br>]]></description>
-<pubDate>Sun, 11 Jan 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260111_Ziel-LM-Patrick-360x160.jpg" medium="image" />
 </item>
 
 </channel>
