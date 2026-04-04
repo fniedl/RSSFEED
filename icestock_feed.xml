@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-04-02 11:06:08 -->
+<!-- Build: 2026-04-04 23:55:38 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Icestock (IFI) Newsfeed</title>
     <link>https://www.icestock.sport/webblocks/news/</link>
     <description>Automatisch generierte IFI News</description>
-    <lastBuildDate>Thu, 02 Apr 2026 09:06:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Apr 2026 21:55:38 +0000</lastBuildDate>
     <generator>FN-Stocksport Scraper</generator>
     
   </channel>
