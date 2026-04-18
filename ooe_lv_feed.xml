@@ -1,113 +1,191 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<!-- Build: 2026-04-18 09:38:17 -->
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
-    <title>OÖ Landesverband Stocksport</title>
+    <title>OÖ Landesverband Stocksport Newsfeed</title>
     <link>https://www.ooe-stocksport.at/news/</link>
-    <description>Aktuelle News des OÖ Landesverbands</description>
+    <description>Automatisch generierte News des OÖ Landesverbands Stocksport</description>
     <item>
-      <title>MIX LL S2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ll-mixed-sommer-2026/</link>
-      <description>Beginn: 12.04.2026                                     - 08:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/04/2026-04-12-LL-Mixed-1-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>MIX OÖ LIGA S2026 - LM-Mixed-MSP-STSP-11-OÖ - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ooe-liga-mixed-sommer-2026/</link>
-      <description>Beginn: 29.03.2026                                     - 08:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/09/Foto-Fritz-Sebesta-24472.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE UL2 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ul2-herren-winter-2025-2026/</link>
-      <description>Beginn: 14.02.2026                                     - 07:30 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/PXL_20260214_104711843.MP_-6-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE UL1 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ul1-herren-winter-2025-2026/</link>
-      <description>Beginn: 14.02.2026                                     - 07:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/UL1-Herren-Rang1bis4-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Vize-Staatsmeister aus OÖ - Gratulation an SU Neustift - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/vize-staatsmeister-aus-ooe-gratulation-an-su-neustift/</link>
-      <description>Die SU Neustift schafft großartiges! Als Aufsteiger schaffen sie es bis ins Finale der Staatsmeisterschaft der Herren und lassen dabei sogar Seriensieger ESV Union Ladler Wang hinter sich. Gratulation an Erich Scharrer, Martin Scharrer, Andreas Scharrer, Markus Öppinger &amp; Ewald Ratzenböck zu dieser Leistung! 🥈</description>
-      <pubDate>Mon, 16 Feb 2026 12:21:26 +0000</pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/55096906639_d08d8b299a_o-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Sieg in der Bundesliga 1 für ESV Weierfing - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/sieg-in-der-bundesliga-1-fuer-esv-weierfing/</link>
-      <description>Der ESV Weierfing erreicht den ersten Rang und steig somit souverän in die Staatsliga auf. Gratulation an Norbert Hörandner, Franz Auer, Johann Reischenböck, Franz Grübler, Daniel Pimingsdorfer auch zu eurem Erfolg! 🏆</description>
-      <pubDate>Mon, 16 Feb 2026 12:20:54 +0000</pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/636729702_1477386767730193_7993234747823220308_n-e1771243870176.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>DA OÖL W2025/2026 - LM-Damen-MSP-ESTSP-2025/26-OÖ - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ooe-liga-damen-winter-2025-2026/</link>
-      <description>Beginn: 08.02.2026                                     - 07:30 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/05/Foto-Fritz-Sebesta-2044-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE OL3 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ol3-herren-winter-2025-2026/</link>
-      <description>Beginn: 31.01.2026                                     - 07:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/04/OL3-HE-W25-26-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE OL2 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ol2-herren-winter-2025-2026/</link>
-      <description>Beginn: 24.01.2026                                     - 07:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/20260124_113424-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE OL4 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ol-4-herren-winter-2025-2026/</link>
-      <description>Beginn: 17.01.2026                                     - 07:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/05/OL4-HE-W25-26-1-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE OL1 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ol1-herren-winter-2025-2026/</link>
-      <description>Beginn: 17.01.2026                                     - 07:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/OL1-Herren-Rang1bis4-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>Manuel Reischl (Union ESV Esternberg) bei den Weitenwettbewerben in Winklarn - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/manuel-reischl-union-esv-esternberg-bei-den-weitenwettbewerben-in-winklarn/</link>
-      <description>Am 10. Jänner fanden in Winklarn, Niederösterreich, die Weitenwettbewerbe auf Eis statt. Manuel Reischl (Union ESV Esternberg) war mitdabei und konnte gute Ergebnisse mit nach Hause nehmen.</description>
-      <pubDate>Mon, 12 Jan 2026 16:31:15 +0000</pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/55034126590_7c30cf4fe7_o-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>OÖ Nachwuchs-Stockschützen bei den Österreichischen Meisterschaften - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ooe-nachwuchs-stockschuetzen-bei-den-oesterreichischen-meisterschaften/</link>
-      <description>Unsere jungen Stockschützen bei den Österreichischen Meisterschaften in Weiz!💥🥇🥉🥉</description>
-      <pubDate>Mon, 12 Jan 2026 15:32:12 +0000</pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/613685002_1445258174276386_1032603222013700810_n.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>HE LL W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ll-herren-winter-2025-2026/</link>
-      <description>Beginn: 10.01.2026                                     - 07:00 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/2026-01-10-LL-Herren-1-scaled.jpg" type="image/jpeg" />
-    </item>
-    <item>
-      <title>OÖL Ziel W2025/2026 - Landesverband der OÖ. Stocksportler</title>
-      <link>https://www.ooe-stocksport.at/news/ooe-liga-ziel-alle-klassen-winter-2025-2026/</link>
-      <description>Beginn: 04.01.2026                                     - 07:15 Uhr</description>
-      <pubDate></pubDate>
-      <enclosure url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/2026-01-04-OOeL-Ziel-Damen-scaled.jpg" type="image/jpeg" />
-    </item>
+<title>OÖL Ziel W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ooe-liga-ziel-alle-klassen-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/2026-01-04-OOeL-Ziel-Damen-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 04.01.2026                                     - 07:15 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ooe-liga-ziel-alle-klassen-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:17 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/2026-01-04-OOeL-Ziel-Damen-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE LL W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ll-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/2026-01-10-LL-Herren-1-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 10.01.2026                                     - 07:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ll-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:17 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/2026-01-10-LL-Herren-1-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE OL1 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ol1-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/OL1-Herren-Rang1bis4-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 17.01.2026                                     - 07:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ol1-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:16 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/OL1-Herren-Rang1bis4-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE OL4 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ol-4-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/05/OL4-HE-W25-26-1-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 17.01.2026                                     - 07:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ol-4-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:16 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/05/OL4-HE-W25-26-1-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE OL2 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ol2-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/20260124_113424-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 24.01.2026                                     - 07:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ol2-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:15 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/20260124_113424-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE OL3 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ol3-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/04/OL3-HE-W25-26-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 31.01.2026                                     - 07:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ol3-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:15 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/04/OL3-HE-W25-26-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>DA OÖL W2025/2026 - LM-Damen-MSP-ESTSP-2025/26-OÖ - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ooe-liga-damen-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/05/Foto-Fritz-Sebesta-2044-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 08.02.2026                                     - 07:30 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ooe-liga-damen-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:15 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/05/Foto-Fritz-Sebesta-2044-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE UL1 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ul1-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/UL1-Herren-Rang1bis4-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 14.02.2026                                     - 07:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ul1-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:14 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/UL1-Herren-Rang1bis4-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>HE UL2 W2025/2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ul2-herren-winter-2025-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/PXL_20260214_104711843.MP_-6-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 14.02.2026                                     - 07:30 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ul2-herren-winter-2025-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:14 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/PXL_20260214_104711843.MP_-6-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>MIX OÖ LIGA S2026 - LM-Mixed-MSP-STSP-11-OÖ - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ooe-liga-mixed-sommer-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/09/Foto-Fritz-Sebesta-24472.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 29.03.2026                                     - 08:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ooe-liga-mixed-sommer-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:13 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2025/09/Foto-Fritz-Sebesta-24472.jpg" medium="image" />
+</item>
+<item>
+<title>MIX LL S2026 - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ll-mixed-sommer-2026/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/04/2026-04-12-LL-Mixed-1-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Beginn: 12.04.2026                                     - 08:00 Uhr
+<br>
+<a href="https://www.ooe-stocksport.at/news/ll-mixed-sommer-2026/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Sat, 18 Apr 2026 07:38:13 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/04/2026-04-12-LL-Mixed-1-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>Vize-Staatsmeister aus OÖ - Gratulation an SU Neustift - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/vize-staatsmeister-aus-ooe-gratulation-an-su-neustift/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/55096906639_d08d8b299a_o-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Die SU Neustift schafft großartiges! Als Aufsteiger schaffen sie es bis ins Finale der Staatsmeisterschaft der Herren und lassen dabei sogar Seriensieger ESV Union Ladler Wang hinter sich. Gratulation an Erich Scharrer, Martin Scharrer, Andreas Scharrer, Markus Öppinger &amp; Ewald Ratzenböck zu dieser Leistung! 🥈
+<br>
+<a href="https://www.ooe-stocksport.at/news/vize-staatsmeister-aus-ooe-gratulation-an-su-neustift/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Mon, 16 Feb 2026 12:21:26 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/55096906639_d08d8b299a_o-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>Sieg in der Bundesliga 1 für ESV Weierfing - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/sieg-in-der-bundesliga-1-fuer-esv-weierfing/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/636729702_1477386767730193_7993234747823220308_n-e1771243870176.jpg" style="max-width:100%;height:auto;"><br>
+Der ESV Weierfing erreicht den ersten Rang und steig somit souverän in die Staatsliga auf. Gratulation an Norbert Hörandner, Franz Auer, Johann Reischenböck, Franz Grübler, Daniel Pimingsdorfer auch zu eurem Erfolg! 🏆
+<br>
+<a href="https://www.ooe-stocksport.at/news/sieg-in-der-bundesliga-1-fuer-esv-weierfing/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Mon, 16 Feb 2026 12:20:54 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/02/636729702_1477386767730193_7993234747823220308_n-e1771243870176.jpg" medium="image" />
+</item>
+<item>
+<title>Manuel Reischl (Union ESV Esternberg) bei den Weitenwettbewerben in Winklarn - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/manuel-reischl-union-esv-esternberg-bei-den-weitenwettbewerben-in-winklarn/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/55034126590_7c30cf4fe7_o-scaled.jpg" style="max-width:100%;height:auto;"><br>
+Am 10. Jänner fanden in Winklarn, Niederösterreich, die Weitenwettbewerbe auf Eis statt. Manuel Reischl (Union ESV Esternberg) war mitdabei und konnte gute Ergebnisse mit nach Hause nehmen.
+<br>
+<a href="https://www.ooe-stocksport.at/news/manuel-reischl-union-esv-esternberg-bei-den-weitenwettbewerben-in-winklarn/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Mon, 12 Jan 2026 16:31:15 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/55034126590_7c30cf4fe7_o-scaled.jpg" medium="image" />
+</item>
+<item>
+<title>OÖ Nachwuchs-Stockschützen bei den Österreichischen Meisterschaften - Landesverband der OÖ. Stocksportler</title>
+<link>https://www.ooe-stocksport.at/news/ooe-nachwuchs-stockschuetzen-bei-den-oesterreichischen-meisterschaften/</link>
+<description><![CDATA[
+<img src="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/613685002_1445258174276386_1032603222013700810_n.jpg" style="max-width:100%;height:auto;"><br>
+Unsere jungen Stockschützen bei den Österreichischen Meisterschaften in Weiz!💥🥇🥉🥉
+<br>
+<a href="https://www.ooe-stocksport.at/news/ooe-nachwuchs-stockschuetzen-bei-den-oesterreichischen-meisterschaften/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Mon, 12 Jan 2026 15:32:12 +0000</pubDate>
+<media:content url="https://www.ooe-stocksport.at/wp-content/uploads/sites/5/2026/01/613685002_1445258174276386_1032603222013700810_n.jpg" medium="image" />
+</item>
+
   </channel>
 </rss>
