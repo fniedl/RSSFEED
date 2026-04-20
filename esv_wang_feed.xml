@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-04-18 10:07:14 -->
+<!-- Build: 2026-04-20 08:05:39 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Nächster wichtiger Heimsieg gegen Franking-Geretsberg</title>
+<link>https://esv-wang.sportunion.at/news/2026/04/19/naechster-wichtiger-heimsieg-gegen-franking-geretsberg/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260418_BL-2-gegen-Franking_Wang-360x160.jpg" style="max-width:100%;height:auto;"><br>Nächster wichtiger Heimsieg gegen Franking-Geretsberg]]></description>
+<pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260418_BL-2-gegen-Franking_Wang-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Rang 2 beim Wolfpassinger Duo Turnier</title>
 <link>https://esv-wang.sportunion.at/news/2026/04/16/rang-2-beim-wolfpassinger-duo-turnier/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260314_Union-LM-Wang-360x160.jpg" style="max-width:100%;height:auto;"><br>Wanger Stocksportler gewinnen überlegen die Landesmeisterschaft]]></description>
 <pubDate>Sat, 14 Mar 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260314_Union-LM-Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Sieben Duo-Mannschaften beim Wanger Trainingsturnier</title>
-<link>https://esv-wang.sportunion.at/news/2026/03/13/sieben-duo-mannschaften-beim-wanger-trainingsturnier/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260312_Trainings-Duo-Turnier-360x160.jpg" style="max-width:100%;height:auto;"><br>Sieben Duo-Mannschaften beim Wanger Trainingsturnier]]></description>
-<pubDate>Fri, 13 Mar 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260312_Trainings-Duo-Turnier-360x160.jpg" medium="image" />
 </item>
 
 </channel>
