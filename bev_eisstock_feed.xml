@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-05-03 17:43:18 -->
+<!-- Build: 2026-05-09 07:09:32 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
@@ -7,6 +7,18 @@
     <link>https://bev-eissport.de/eisstocksport/news-archiv/</link>
     <description>Automatisch generierte News BEV Eisstock</description>
     <item>
+<title>Ergebnisse Talentsichtung Bezirk II</title>
+<link>https://bev-eissport.de/eisstocksport/ergebnisse-talentsichtung-bezirk-ii/</link>
+<description><![CDATA[
+<img src="https://bev-eissport.de/wp-content/uploads/News.jpg" style="max-width:100%;height:auto;"><br>
+Michael Moosburger 2026-05-04T19:55:30+02:00 4. Mai 2026 |
+<br>
+<a href="https://bev-eissport.de/eisstocksport/ergebnisse-talentsichtung-bezirk-ii/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
+]]></description>
+<pubDate>Mon, 04 May 2026 17:55:30 +0000</pubDate>
+<media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
+</item>
+<item>
 <title>Bayernpokal 2026 im Weitenwettbewerb: Hochklassiger Stocksport in Buchbach</title>
 <link>https://bev-eissport.de/eisstocksport/bayernpokal-2026-im-weitenwettbewerb-hochklassiger-stocksport-in-buchbach/</link>
 <description><![CDATA[
@@ -53,18 +65,6 @@ Michael Paukert 2026-03-21T17:47:36+01:00 21. März 2026 |
 ]]></description>
 <pubDate>Sat, 21 Mar 2026 16:47:36 +0000</pubDate>
 <media:content url="https://bev-eissport.de/wp-content/uploads/Slider_Eisstocksport-700x441.jpg" medium="image" />
-</item>
-<item>
-<title>Ergebnisse 28. Bay. Schulmeisterschaft 2026 sind online</title>
-<link>https://bev-eissport.de/eisstocksport/ergebnisse-28-bay-schulmeisterschaft-2026-sind-online/</link>
-<description><![CDATA[
-<img src="https://bev-eissport.de/wp-content/uploads/News.jpg" style="max-width:100%;height:auto;"><br>
-Michael Moosburger 2026-03-02T21:28:10+01:00 2. März 2026 |
-<br>
-<a href="https://bev-eissport.de/eisstocksport/ergebnisse-28-bay-schulmeisterschaft-2026-sind-online/" target="_blank" style="display:inline-block;margin-top:10px;padding:8px 14px;background:#1A2E44;color:#fff;border-radius:8px;text-decoration:none;font-weight:bold;">Zum Originalbeitrag</a>
-]]></description>
-<pubDate>Mon, 02 Mar 2026 20:28:10 +0000</pubDate>
-<media:content url="https://bev-eissport.de/wp-content/uploads/News.jpg" medium="image" />
 </item>
 
   </channel>
