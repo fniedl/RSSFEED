@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-05-10 09:24:49 -->
+<!-- Build: 2026-05-11 08:05:39 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Bittere Auswärtsniederlage in Franking</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/10/bittere-auswaertsniederlage-in-franking/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260509_BL-2-gegen-Franking-360x160.jpg" style="max-width:100%;height:auto;"><br>Bittere Auswärtsniederlage in Franking]]></description>
+<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260509_BL-2-gegen-Franking-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Sieg für Wang in Klein-Pöchlarn</title>
 <link>https://esv-wang.sportunion.at/news/2026/05/08/sieg-fuer-wang-in-klein-poechlarn/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260402_Hobl-Duo-Turnier-360x160.jpg" style="max-width:100%;height:auto;"><br>Wang in Stattersdorf auf Platz 4]]></description>
 <pubDate>Fri, 03 Apr 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260402_Hobl-Duo-Turnier-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang gewinnt Mixed Landesmeisterschaft der SPORTUNION NÖ.</title>
-<link>https://esv-wang.sportunion.at/news/2026/03/29/esv-union-ladler-wang-gewinnt-mixed-landesmeisterschaft-der-sportunion-noe/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260329_Union-LM-Mixed_Top-3-360x160.jpg" style="max-width:100%;height:auto;"><br>ESV Union Ladler Wang gewinnt Mixed Landesmeisterschaft der SPORTUNION NÖ.]]></description>
-<pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260329_Union-LM-Mixed_Top-3-360x160.jpg" medium="image" />
 </item>
 
 </channel>
