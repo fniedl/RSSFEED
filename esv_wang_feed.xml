@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-05-19 23:42:57 -->
+<!-- Build: 2026-05-23 07:50:53 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Podestplatz für Wanger Stocksportler in Deutschland</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/21/podestplatz-fuer-wanger-stocksportler-in-deutschland/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260520_Wang-GER-360x160.png" style="max-width:100%;height:auto;"><br>Podestplatz für Wanger Stocksportler in Deutschland]]></description>
+<pubDate>Thu, 21 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260520_Wang-GER-360x160.png" medium="image" />
+</item>
+<item>
+<title>Wanger Staatsmeister feierlich geehrt</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/20/wanger-staatsmeister-feierlich-geehrt/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260518_SL-Ehrung-Grafenwoerth-Team-360x160.jpeg" style="max-width:100%;height:auto;"><br>Wanger Staatsmeister feierlich geehrt]]></description>
+<pubDate>Wed, 20 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260518_SL-Ehrung-Grafenwoerth-Team-360x160.jpeg" medium="image" />
+</item>
 <item>
 <title>Wang erkämpft in einem echten Stocksport Krimi in Krottendorf ein Unentschieden!</title>
 <link>https://esv-wang.sportunion.at/news/2026/05/16/wang-erkaempft-in-einem-echten-stocksport-krimi-in-krottendorf-ein-unentschieden/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260410_Haag-Sieger-Wang-Sponsor-360x160.jpg" style="max-width:100%;height:auto;"><br>Wanger Senioren siegen in Haag]]></description>
 <pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260410_Haag-Sieger-Wang-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Trainings-Duoturnier Sieg geht an Patrick &amp; Martin</title>
-<link>https://esv-wang.sportunion.at/news/2026/04/11/wanger-trainings-duoturnier-sieg-geht-an-patrick-martin/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260410_Trainings-Duo-Top-3-Sponsor-360x160.jpg" style="max-width:100%;height:auto;"><br>Wanger Trainings-Duoturnier Sieg geht an Patrick &amp; Martin]]></description>
-<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260410_Trainings-Duo-Top-3-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>SG Umdasch Winklarn und Reinsberg triumphieren bei den Nachmittags‑Duos</title>
-<link>https://esv-wang.sportunion.at/news/2026/04/05/sg-umdasch-winklarn-und-reinsberg-triumphieren-bei-den-nachmittags-duos/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Samstag-Osterturnier-Sieger-NM-Duo-Gr-A-360x160.jpg" style="max-width:100%;height:auto;"><br>SG Umdasch Winklarn und Reinsberg triumphieren bei den Nachmittags‑Duos]]></description>
-<pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Samstag-Osterturnier-Sieger-NM-Duo-Gr-A-360x160.jpg" medium="image" />
 </item>
 
 </channel>
