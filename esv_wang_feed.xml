@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-05-23 07:50:53 -->
+<!-- Build: 2026-05-26 06:47:19 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wichtiger Sieg in Wolfau</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/24/21781/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260523_BL-2-gegen-Wolfau_Wang-Jubel-360x160.jpg" style="max-width:100%;height:auto;"><br>Wichtiger Sieg in Wolfau]]></description>
+<pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260523_BL-2-gegen-Wolfau_Wang-Jubel-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Erfolgreiches Turnier in Stattersdorf</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/24/erfolgreiches-turnier-in-stattersdorf/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260523_Stattersdorf-Wang-mit-jpg-360x160.png" style="max-width:100%;height:auto;"><br>Erfolgreiches Turnier in Stattersdorf]]></description>
+<pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260523_Stattersdorf-Wang-mit-jpg-360x160.png" medium="image" />
+</item>
 <item>
 <title>Podestplatz für Wanger Stocksportler in Deutschland</title>
 <link>https://esv-wang.sportunion.at/news/2026/05/21/podestplatz-fuer-wanger-stocksportler-in-deutschland/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260416_Wolfpassing-Platz-2-alleine-mit-Sponsor-360x160.jpg" style="max-width:100%;height:auto;"><br>Rang 2 beim Wolfpassinger Duo Turnier]]></description>
 <pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260416_Wolfpassing-Platz-2-alleine-mit-Sponsor-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>ESV Union Ladler Wang 2 mit erstem Saisonsieg gegen Wolfau</title>
-<link>https://esv-wang.sportunion.at/news/2026/04/11/esv-union-ladler-wang-2-mit-erstem-saisonsieg-gegen-wolfau/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260411_BL-2_Wang-und-Wolfau-360x160.jpg" style="max-width:100%;height:auto;"><br>ESV Union Ladler Wang 2 mit erstem Saisonsieg gegen Wolfau]]></description>
-<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260411_BL-2_Wang-und-Wolfau-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wanger Senioren siegen in Haag</title>
-<link>https://esv-wang.sportunion.at/news/2026/04/11/wanger-senioren-siegen-in-haag/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260410_Haag-Sieger-Wang-Sponsor-360x160.jpg" style="max-width:100%;height:auto;"><br>Wanger Senioren siegen in Haag]]></description>
-<pubDate>Sat, 11 Apr 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260410_Haag-Sieger-Wang-Sponsor-360x160.jpg" medium="image" />
 </item>
 
 </channel>
