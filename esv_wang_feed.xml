@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-05-28 12:14:32 -->
+<!-- Build: 2026-06-01 00:38:45 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Staatsliga-Wanger Heimsieg nach packenden Spiel</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/31/staatsliga-wanger-heimsieg-nach-packenden-spiel/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260530_SL-gegen-Krottendorf-Wang-360x160.jpeg" style="max-width:100%;height:auto;"><br>Staatsliga-Wanger Heimsieg nach packenden Spiel]]></description>
+<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260530_SL-gegen-Krottendorf-Wang-360x160.jpeg" medium="image" />
+</item>
+<item>
+<title>BL 2-Nach Heimsieg in letzter Runde noch Gruppensieger!</title>
+<link>https://esv-wang.sportunion.at/news/2026/05/31/bl-2-nach-heimsieg-in-letzter-runde-noch-gruppensieger/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260530_BL-2gegen-Peratschitzen_beide-Teams-360x160.jpg" style="max-width:100%;height:auto;"><br>BL 2-Nach Heimsieg in letzter Runde noch Gruppensieger!]]></description>
+<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260530_BL-2gegen-Peratschitzen_beide-Teams-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wichtiger Sieg in Wolfau</title>
 <link>https://esv-wang.sportunion.at/news/2026/05/24/21781/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorenwand-mit-Team-2026-360x160.jpg" style="max-width:100%;height:auto;"><br>ESV Union Ladler Wang 1 startet als Titelverteidiger in die neue Saison]]></description>
 <pubDate>Wed, 22 Apr 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/Sponsorenwand-mit-Team-2026-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Nächster wichtiger Heimsieg gegen Franking-Geretsberg</title>
-<link>https://esv-wang.sportunion.at/news/2026/04/19/naechster-wichtiger-heimsieg-gegen-franking-geretsberg/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260418_BL-2-gegen-Franking_Wang-360x160.jpg" style="max-width:100%;height:auto;"><br>Nächster wichtiger Heimsieg gegen Franking-Geretsberg]]></description>
-<pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260418_BL-2-gegen-Franking_Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Rang 2 beim Wolfpassinger Duo Turnier</title>
-<link>https://esv-wang.sportunion.at/news/2026/04/16/rang-2-beim-wolfpassinger-duo-turnier/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260416_Wolfpassing-Platz-2-alleine-mit-Sponsor-360x160.jpg" style="max-width:100%;height:auto;"><br>Rang 2 beim Wolfpassinger Duo Turnier]]></description>
-<pubDate>Thu, 16 Apr 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260416_Wolfpassing-Platz-2-alleine-mit-Sponsor-360x160.jpg" medium="image" />
 </item>
 
 </channel>
