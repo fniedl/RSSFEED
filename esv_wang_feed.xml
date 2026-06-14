@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-06-14 01:01:02 -->
+<!-- Build: 2026-06-14 14:33:17 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Stocksport Bundesliga 2 – Wanger Stocksportler gewinnen Achtelfinale gegen Hintenburg</title>
+<link>https://esv-wang.sportunion.at/news/2026/06/14/stocksport-bundesliga-2-wanger-stocksportler-gewinnen-achtelfinale-gegen-hintenburg/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260613_BL2-AF_Wang-Siegerjubel-360x160.jpg" style="max-width:100%;height:auto;"><br>Stocksport Bundesliga 2 – Wanger Stocksportler gewinnen Achtelfinale gegen Hintenburg]]></description>
+<pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260613_BL2-AF_Wang-Siegerjubel-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Erste Saison Niederlage für Wang 1 in Leoben</title>
 <link>https://esv-wang.sportunion.at/news/2026/06/06/21843/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260509_BL-2-gegen-Franking-360x160.jpg" style="max-width:100%;height:auto;"><br>Bittere Auswärtsniederlage in Franking]]></description>
 <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260509_BL-2-gegen-Franking-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Sieg für Wang in Klein-Pöchlarn</title>
-<link>https://esv-wang.sportunion.at/news/2026/05/08/sieg-fuer-wang-in-klein-poechlarn/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260508_Klein-Poechlarn_Sieger-Wang-360x160.png" style="max-width:100%;height:auto;"><br>Sieg für Wang in Klein-Pöchlarn]]></description>
-<pubDate>Fri, 08 May 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260508_Klein-Poechlarn_Sieger-Wang-360x160.png" medium="image" />
 </item>
 
 </channel>
