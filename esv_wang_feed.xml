@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-06-20 22:07:10 -->
+<!-- Build: 2026-06-24 07:40:11 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Wang 1 fegt Straßwalchen mit 10:0 vom Platz – Gruppensieg in letzter Sekunde fixiert</title>
+<link>https://esv-wang.sportunion.at/news/2026/06/21/21873/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260620_SL-gegen-Strasswalchen_Wang-360x160.jpg" style="max-width:100%;height:auto;"><br>Wang 1 fegt Straßwalchen mit 10:0 vom Platz – Gruppensieg in letzter Sekunde fixiert]]></description>
+<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260620_SL-gegen-Strasswalchen_Wang-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Kein Titel</title>
+<link>https://esv-wang.sportunion.at/news/2026/06/21/21867/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260620_Gebiet-Nord-Wang-3-mit-Sponsor-360x160.png" style="max-width:100%;height:auto;"><br>Kein Titel]]></description>
+<pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260620_Gebiet-Nord-Wang-3-mit-Sponsor-360x160.png" medium="image" />
+</item>
 <item>
 <title>Stocksport Bundesliga 2 – Wanger Stocksportler gewinnen Achtelfinale gegen Hintenburg</title>
 <link>https://esv-wang.sportunion.at/news/2026/06/14/stocksport-bundesliga-2-wanger-stocksportler-gewinnen-achtelfinale-gegen-hintenburg/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260516_St-Oswald--360x160.png" style="max-width:100%;height:auto;"><br>Wanger Stocksportler ohne Spitzenplatzierungen bei Turnieren der Woche]]></description>
 <pubDate>Sat, 16 May 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260516_St-Oswald--360x160.png" medium="image" />
-</item>
-<item>
-<title>Wanger Stocksportler holen Bundesmeistertitel im Mixed!</title>
-<link>https://esv-wang.sportunion.at/news/2026/05/14/wanger-stocksportler-holen-bundesmeistertitel-im-mixed/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260514_SU-BM-Mixed-Sieger-Wang-360x160.jpg" style="max-width:100%;height:auto;"><br>Wanger Stocksportler holen Bundesmeistertitel im Mixed!]]></description>
-<pubDate>Thu, 14 May 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260514_SU-BM-Mixed-Sieger-Wang-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Bittere Auswärtsniederlage in Franking</title>
-<link>https://esv-wang.sportunion.at/news/2026/05/10/bittere-auswaertsniederlage-in-franking/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260509_BL-2-gegen-Franking-360x160.jpg" style="max-width:100%;height:auto;"><br>Bittere Auswärtsniederlage in Franking]]></description>
-<pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260509_BL-2-gegen-Franking-360x160.jpg" medium="image" />
 </item>
 
 </channel>
