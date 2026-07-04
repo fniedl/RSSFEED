@@ -1,11 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-07-01 13:41:04 -->
+<!-- Build: 2026-07-04 15:12:02 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>AKNÖ – NÖ Duo CUP Region West – Beide Wanger Wanger Teams schaffen Aufstieg zum Landesfinale</title>
+<link>https://esv-wang.sportunion.at/news/2026/07/04/aknoe-noe-duo-cup-region-west-beide-wanger-wanger-teams-schaffen-aufstieg-zum-landesfinale/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260703_Duo-Cup-Region-West-Wang1-und-2-360x160.jpg" style="max-width:100%;height:auto;"><br>AKNÖ – NÖ Duo CUP Region West – Beide Wanger Wanger Teams schaffen Aufstieg zum Landesfinale]]></description>
+<pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260703_Duo-Cup-Region-West-Wang1-und-2-360x160.jpg" medium="image" />
+</item>
+<item>
+<title>Turniersieg in St Aegyd</title>
+<link>https://esv-wang.sportunion.at/news/2026/07/03/turniersieg-in-st-aegyd/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260702_St-Aegyd-Sponsor-360x160.png" style="max-width:100%;height:auto;"><br>Turniersieg in St Aegyd]]></description>
+<pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260702_St-Aegyd-Sponsor-360x160.png" medium="image" />
+</item>
 <item>
 <title>🏫 Schulstocksporttag in Wang</title>
 <link>https://esv-wang.sportunion.at/news/2026/06/30/%f0%9f%8f%ab-schulstocksporttag-in-wang/</link>
@@ -96,20 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260603_NOE-Cup-gegen-Marbach-mit-360x160.png" style="max-width:100%;height:auto;"><br>AKNÖ NÖ Stocksport Cup – Runde 2: Souveräner 8:2‑Erfolg für Wang 1]]></description>
 <pubDate>Wed, 03 Jun 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260603_NOE-Cup-gegen-Marbach-mit-360x160.png" medium="image" />
-</item>
-<item>
-<title>Staatsliga-Wanger Heimsieg nach packenden Spiel</title>
-<link>https://esv-wang.sportunion.at/news/2026/05/31/staatsliga-wanger-heimsieg-nach-packenden-spiel/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260530_SL-gegen-Krottendorf-Wang-360x160.jpeg" style="max-width:100%;height:auto;"><br>Staatsliga-Wanger Heimsieg nach packenden Spiel]]></description>
-<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260530_SL-gegen-Krottendorf-Wang-360x160.jpeg" medium="image" />
-</item>
-<item>
-<title>BL 2-Nach Heimsieg in letzter Runde noch Gruppensieger!</title>
-<link>https://esv-wang.sportunion.at/news/2026/05/31/bl-2-nach-heimsieg-in-letzter-runde-noch-gruppensieger/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260530_BL-2gegen-Peratschitzen_beide-Teams-360x160.jpg" style="max-width:100%;height:auto;"><br>BL 2-Nach Heimsieg in letzter Runde noch Gruppensieger!]]></description>
-<pubDate>Sun, 31 May 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260530_BL-2gegen-Peratschitzen_beide-Teams-360x160.jpg" medium="image" />
 </item>
 
 </channel>
