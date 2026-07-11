@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-07-07 07:08:23 -->
+<!-- Build: 2026-07-11 16:25:31 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>AKNÖ NÖ Cup 2026 Wang 4 steht Sensationell im Achtelfinale</title>
+<link>https://esv-wang.sportunion.at/news/2026/07/10/aknoe-noe-cup-2026-wang-4-steht-sensationell-im-achtelfinale/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260710_NOE-Cup-gegen-Winzendorf_beide-Teams-360x160.jpg" style="max-width:100%;height:auto;"><br>AKNÖ NÖ Cup 2026 Wang 4 steht Sensationell im Achtelfinale]]></description>
+<pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260710_NOE-Cup-gegen-Winzendorf_beide-Teams-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>Wang gewinnt in Gars das Kirtagsturnier</title>
 <link>https://esv-wang.sportunion.at/news/2026/07/05/wang-gewinnt-in-gars-das-kirtagsturnier/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260605_Moe-Cup-gegen-Reinsberg-360x160.jpg" style="max-width:100%;height:auto;"><br>AKNÖ-NÖ Cup – Wang 4 siegt gegen Reinsberg 2 und steht somit in Runde 3]]></description>
 <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260605_Moe-Cup-gegen-Reinsberg-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>Wang gewinnt überlegen in Scheibbs</title>
-<link>https://esv-wang.sportunion.at/news/2026/06/04/wang-gewinnt-ueberlegen-in-scheibbs/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260604_SG-Scheibbs-Sieger-Wang-Sponsoren-360x160.png" style="max-width:100%;height:auto;"><br>Wang gewinnt überlegen in Scheibbs]]></description>
-<pubDate>Thu, 04 Jun 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260604_SG-Scheibbs-Sieger-Wang-Sponsoren-360x160.png" medium="image" />
 </item>
 
 </channel>
