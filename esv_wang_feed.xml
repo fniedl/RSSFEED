@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Build: 2026-07-11 20:35:37 -->
+<!-- Build: 2026-07-14 07:17:05 -->
 <rss version="2.0"
      xmlns:media="http://search.yahoo.com/mrss/">
 <channel>
 <title>ESV Union Ladler Wang Newsfeed</title>
 <link>https://esv-wang.sportunion.at/news/</link>
 <description>Automatisch generierte News ESV Wang</description>
+<item>
+<title>Stocksport Staatsliga 2026 – ESV Union Ladler Wang verteidigt erfolgreich den Titel in Eberstein</title>
+<link>https://esv-wang.sportunion.at/news/2026/07/13/stocksport-staatsliga-2026-esv-union-ladler-wang-verteidigt-erfolgreich-den-titel-in-eberstein/</link>
+<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/55388958305_bcc657ab02_c-360x160.jpg" style="max-width:100%;height:auto;"><br>Stocksport Staatsliga 2026 – ESV Union Ladler Wang verteidigt erfolgreich den Titel in Eberstein]]></description>
+<pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
+<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/55388958305_bcc657ab02_c-360x160.jpg" medium="image" />
+</item>
 <item>
 <title>AKNÖ NÖ Cup 2026 Wang 4 steht Sensationell im Achtelfinale</title>
 <link>https://esv-wang.sportunion.at/news/2026/07/10/aknoe-noe-cup-2026-wang-4-steht-sensationell-im-achtelfinale/</link>
@@ -103,13 +110,6 @@
 <description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260606_SL-gegen-Leoben_Team-mit-Fans-360x160.jpg" style="max-width:100%;height:auto;"><br>Erste Saison Niederlage für Wang 1 in Leoben]]></description>
 <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
 <media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260606_SL-gegen-Leoben_Team-mit-Fans-360x160.jpg" medium="image" />
-</item>
-<item>
-<title>AKNÖ-NÖ Cup – Wang 4 siegt gegen Reinsberg 2 und steht somit in Runde 3</title>
-<link>https://esv-wang.sportunion.at/news/2026/06/05/aknoe-noe-cup-wang-4-siegt-gegen-reinsberg-2-und-steht-somit-in-runde-3/</link>
-<description><![CDATA[<img src="https://esv-wang.sportunion.at/wp-content/uploads/20260605_Moe-Cup-gegen-Reinsberg-360x160.jpg" style="max-width:100%;height:auto;"><br>AKNÖ-NÖ Cup – Wang 4 siegt gegen Reinsberg 2 und steht somit in Runde 3]]></description>
-<pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
-<media:content url="https://esv-wang.sportunion.at/wp-content/uploads/20260605_Moe-Cup-gegen-Reinsberg-360x160.jpg" medium="image" />
 </item>
 
 </channel>
